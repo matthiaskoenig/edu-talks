@@ -1,0 +1,80 @@
+---
+title: How to make successful collaborations between computational biologists and experimentalists?
+subtitle: A 10 Simple Rules Eductional Series
+format: clean-revealjs
+author:
+  - name: Matthias König
+    orcid: 0000-0003-1725-179X
+    email: konigmatt@gmail.com
+    affiliations: Humboldt-Universität zu Berlin, Faculty of Life Science, Institute of Biology, ITB; <br />University of Stuttgart, Institute of Structural Mechanics and Dynamics in Aerospace Engineering;
+date: last-modified 
+title-slide-attributes: 
+  data-notes: Some speaker notes
+---
+
+
+## What do you think? 
+- Mentimeter
+
+::: {.notes}
+Let's start with a quick poll on what you think is important!
+:::
+
+
+## R1: Collaboration
+
+You must choose your collaboration partners wisely.
+
+:::: {.columns}
+
+::: {.column width="50%"}
+image
+:::
+
+::: {.column width="50%"}
+- point 1
+- point 2
+:::
+
+
+::::
+
+. . .
+
+Application
+
+
+
+## R2: Data/Metadata
+
+- Partners must agree on data and metadata.
+
+## R3: Publication
+
+- Publication policies must be clearly defined.
+
+## R4: Experimental Design
+
+- Experimental designs must be defined by all partners.
+
+## R5: Project Management
+- Partners must agree on project and time management.
+
+## R6: Communication
+- Early and open communication is essential for success.
+
+## R7: Reproducible Science
+- Open and reproducible Science is essential.
+
+## R8: Transparency/Trust
+- Transparency and trust is important.
+
+## R9: Respect
+- Respect and appreciation of partners is essential.
+
+## R10: Learn as a Team 
+- Collaboration is a learning process in a group.
+
+# Additional material
+
+## References
