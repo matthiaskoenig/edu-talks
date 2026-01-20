@@ -110,16 +110,15 @@ Let's start with a quick poll on what you think is important!
 ![](content/experimental_design.jpg){height="250"}
 :::
 ::: {.column width="50%"}
-- Agree on research dissemination.
-- Discuss authorships and contribution policies.
+- Discuss the experimental designs early.
+- Involve computational bioligists.
 :::
 ::::
 :::
 
 ::: {.fragment}
 ### Actionable items
-- Embrace author contribution taxonomies like CRediT [@Allen]
-- Re-evaluate on major changes.
+- Include test and pilot experiments in your experimental design
 :::
 
 
@@ -132,16 +131,16 @@ Let's start with a quick poll on what you think is important!
 ![](content/project_management.jpg){height="250"}
 :::
 ::: {.column width="50%"}
-- Agree on research dissemination.
-- Discuss authorships and contribution policies.
+- Agree on milestones and timelines.
+- Work collaboratively.
 :::
 ::::
 :::
 
 ::: {.fragment}
 ### Actionable items
-- Embrace author contribution taxonomies like CRediT [@Allen]
-- Re-evaluate on major changes.
+- Use online project planners (i.e., Trello, GitHub projects); 
+- use multiuser online text editors (i.e., Google Docs, Overleaf) to draft manuscripts and other documents
 :::
 
 ## 6: Communication
@@ -153,16 +152,15 @@ Let's start with a quick poll on what you think is important!
 ![](content/communication.jpg){height="250"}
 :::
 ::: {.column width="50%"}
-- Agree on research dissemination.
-- Discuss authorships and contribution policies.
+- Communicate early, openly, and often enough.
 :::
 ::::
 :::
 
 ::: {.fragment}
 ### Actionable items
-- Embrace author contribution taxonomies like CRediT [@Allen]
-- Re-evaluate on major changes.
+- Adhere to effective meetings [11]
+- Adhere to written interactions guidelines [12]
 :::
 
 ## 7: Reproducible Science
@@ -174,16 +172,16 @@ Let's start with a quick poll on what you think is important!
 ![](content/reproducible_science.png){height="250"}
 :::
 ::: {.column width="50%"}
-- Agree on research dissemination.
-- Discuss authorships and contribution policies.
+- Follow open and reproducible science guidelines.
 :::
 ::::
 :::
 
 ::: {.fragment}
 ### Actionable items
-- Embrace author contribution taxonomies like CRediT [@Allen]
-- Re-evaluate on major changes.
+- Use version control (i.e., GitHub, BitBucket, GitLab)
+- include reproducible and versioned software installation steps
+- create an analysis workflows that can easily be rerun
 :::
 
 ## 8: Transparency/Trust
@@ -195,16 +193,15 @@ Let's start with a quick poll on what you think is important!
 ![](content/transparancy.jpg){height="250"}
 :::
 ::: {.column width="50%"}
-- Agree on research dissemination.
-- Discuss authorships and contribution policies.
+- Establish the transparency and trust required for constructive feedback.
 :::
 ::::
 :::
 
 ::: {.fragment}
 ### Actionable items
-- Embrace author contribution taxonomies like CRediT [@Allen]
-- Re-evaluate on major changes.
+- Share all raw and processed data (Open Data)
+- Listen to and acknowledge dissenting opinions
 :::
 
 ## 9: Respect
@@ -216,16 +213,15 @@ Let's start with a quick poll on what you think is important!
 ![](content/respect.jpg){height="250"}
 :::
 ::: {.column width="50%"}
-- Agree on research dissemination.
-- Discuss authorships and contribution policies.
+- Be respectful and show appreciation.
 :::
 ::::
 :::
 
 ::: {.fragment}
 ### Actionable items
-- Embrace author contribution taxonomies like CRediT [@Allen]
-- Re-evaluate on major changes.
+- Be respectful
+- Be aware of common cognitive biases (e.g. impostor syndrome [16] and Dunning–Kruger effect [17])
 :::
 
 ## 10: Learn as a Team 
@@ -237,16 +233,16 @@ Let's start with a quick poll on what you think is important!
 ![](content/team.jpg){height="250"}
 :::
 ::: {.column width="50%"}
-- Agree on research dissemination.
-- Discuss authorships and contribution policies.
+- Learn as a team
 :::
 ::::
 :::
 
 ::: {.fragment}
 ### Actionable items
-- Embrace author contribution taxonomies like CRediT [@Allen]
-- Re-evaluate on major changes.
+- Add explanatory comments to the analysis code
+- Do not shy away from asking what you do not understand
+- Commit to answering basic and advanced questions about the analysis
 :::
 
 <!--
