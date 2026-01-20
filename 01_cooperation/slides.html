@@ -29,7 +29,27 @@
       margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
       vertical-align: middle;
     }
-  </style>
+    /* CSS for citations */
+    div.csl-bib-body { }
+    div.csl-entry {
+      clear: both;
+      margin-bottom: 0em;
+    }
+    .hanging-indent div.csl-entry {
+      margin-left:2em;
+      text-indent:-2em;
+    }
+    div.csl-left-margin {
+      min-width:2em;
+      float:left;
+    }
+    div.csl-right-inline {
+      margin-left:2em;
+      padding-left:1em;
+    }
+    div.csl-indent {
+      margin-left: 2em;
+    }  </style>
   <link rel="stylesheet" href="slides_files/libs/revealjs/dist/theme/quarto-5ae9c59b2727fcd5357d4f034d95f9e0.css">
   <link href="slides_files/libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
   <link href="slides_files/libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
@@ -138,20 +158,24 @@
 Matthias König <a href="https://orcid.org/0000-0003-1725-179X" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a>
 </div>
 <div class="quarto-title-author-email">
-<a href="mailto:konigmatt@gmail.com">konigmatt@gmail.com</a>
+<a href="mailto:konigmatt@gmail.com<br /> https://livermetabolism.com">konigmatt@gmail.com<br> https://livermetabolism.com</a>
 </div>
         <p class="quarto-title-affiliation">
-            Humboldt-Universität zu Berlin, Faculty of Life Science, Institute of Biology, ITB; <br>University of Stuttgart, Institute of Structural Mechanics and Dynamics in Aerospace Engineering;
+            Humboldt-Universität zu Berlin, Faculty of Life Science, Institute of Biology, ITB <br>University of Stuttgart, Institute of Structural Mechanics and Dynamics in Aerospace Engineering
           </p>
     </div>
 </div>
 
   <p class="date">January 20, 2026</p>
 </section>
+<section id="section" class="slide level2" data-background-image="content/teamwork.jpg" data-background-size="contain">
+<h2></h2>
+</section>
 <section id="what-do-you-think" class="slide level2">
 <h2>What do you think?</h2>
 <ul>
 <li>Mentimeter</li>
+<li><span class="citation" data-cites="Stawarczyk2023">(<a href="#/references" role="doc-biblioref" onclick="">Stawarczyk and Roos 2023</a>)</span></li>
 </ul>
 <aside class="notes">
 <p>Let’s start with a quick poll on what you think is important!</p>
@@ -167,85 +191,69 @@ Matthias König <a href="https://orcid.org/0000-0003-1725-179X" class="quarto-ti
           display:block!important;
       }</style></aside>
 </section>
-<section id="r1-collaboration" class="slide level2">
-<h2>R1: Collaboration</h2>
-<p>You must choose your collaboration partners wisely.</p>
+<section id="collaboration" class="slide level2">
+<h2>1: Collaboration</h2>
+<h3 id="you-must-choose-your-collaboration-partners-wisely.">You must choose your collaboration partners wisely.</h3>
 <div class="columns">
 <div class="column" style="width:50%;">
-<p>image</p>
+<img data-src="content/collaboration.jpg" class="r-stretch">
 </div><div class="column" style="width:50%;">
 <ul>
 <li>point 1</li>
 <li>point 2</li>
 </ul>
 </div></div>
-<div class="fragment">
+<p>. . .</p>
 <p>Application</p>
-</div>
-</section>
-<section id="r2-datametadata" class="slide level2">
-<h2>R2: Data/Metadata</h2>
-<ul>
-<li>Partners must agree on data and metadata.</li>
-</ul>
-</section>
-<section id="r3-publication" class="slide level2">
-<h2>R3: Publication</h2>
-<ul>
-<li>Publication policies must be clearly defined.</li>
-</ul>
-</section>
-<section id="r4-experimental-design" class="slide level2">
-<h2>R4: Experimental Design</h2>
-<ul>
-<li>Experimental designs must be&nbsp;defined by all partners.</li>
-</ul>
-</section>
-<section id="r5-project-management" class="slide level2">
-<h2>R5: Project Management</h2>
-<ul>
-<li>Partners must agree on project and time management.</li>
-</ul>
-</section>
-<section id="r6-communication" class="slide level2">
-<h2>R6: Communication</h2>
-<ul>
-<li>Early and open communication is essential for success.</li>
-</ul>
-</section>
-<section id="r7-reproducible-science" class="slide level2">
-<h2>R7: Reproducible Science</h2>
-<ul>
-<li>Open and reproducible Science is essential.</li>
-</ul>
-</section>
-<section id="r8-transparencytrust" class="slide level2">
-<h2>R8: Transparency/Trust</h2>
-<ul>
-<li>Transparency and trust is important.</li>
-</ul>
-</section>
-<section id="r9-respect" class="slide level2">
-<h2>R9: Respect</h2>
-<ul>
-<li>Respect and appreciation of partners is essential.</li>
-</ul>
-</section>
-<section id="r10-learn-as-a-team" class="slide level2">
-<h2>R10: Learn as a Team</h2>
-<ul>
-<li>Collaboration is a learning process in a group.</li>
-</ul>
-</section>
-<section>
-<section id="additional-material" class="title-slide slide level1 center">
-<h1>Additional material</h1>
 
+<aside><div>
+<p>Reference</p>
+</div></aside></section>
+<section id="datametadata" class="slide level2">
+<h2>2: Data/Metadata</h2>
+<h3 id="partners-must-agree-on-data-and-metadata.">Partners must agree on data and metadata.</h3>
 </section>
-<section id="references" class="slide level2">
+<section id="publication" class="slide level2">
+<h2>3: Publication</h2>
+<h3 id="publication-policies-must-be-clearly-defined.">Publication policies must be clearly defined.</h3>
+</section>
+<section id="experimental-design" class="slide level2">
+<h2>4: Experimental Design</h2>
+<h3 id="experimental-designs-must-be-defined-by-all-partners.">Experimental designs must be&nbsp;defined by all partners.</h3>
+</section>
+<section id="project-management" class="slide level2">
+<h2>5: Project Management</h2>
+<h3 id="partners-must-agree-on-project-and-time-management.">Partners must agree on project and time management.</h3>
+</section>
+<section id="communication" class="slide level2">
+<h2>6: Communication</h2>
+<h3 id="early-and-open-communication-is-essential-for-success.">Early and open communication is essential for success.</h3>
+</section>
+<section id="reproducible-science" class="slide level2">
+<h2>7: Reproducible Science</h2>
+<h3 id="open-and-reproducible-science-is-essential.">Open and reproducible Science is essential.</h3>
+</section>
+<section id="transparencytrust" class="slide level2">
+<h2>8: Transparency/Trust</h2>
+<h3 id="transparency-and-trust-is-important.">Transparency and trust is important.</h3>
+</section>
+<section id="respect" class="slide level2">
+<h2>9: Respect</h2>
+<h3 id="respect-and-appreciation-of-partners-is-essential.">Respect and appreciation of partners is essential.</h3>
+</section>
+<section id="learn-as-a-team" class="slide level2">
+<h2>10: Learn as a Team</h2>
+<h3 id="collaboration-is-a-learning-process-in-a-group.">Collaboration is a learning process in a group.</h3>
+</section>
+<section id="references" class="slide level2 smaller scrollable">
 <h2>References</h2>
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-Stawarczyk2023" class="csl-entry" role="listitem">
+Stawarczyk, Bogna, and Małgorzata Roos. 2023. <span>“Establishing Effective Cross-Disciplinary Collaboration: <span>Combining</span> Simple Rules for Reproducible Computational Research, a Good Data Management Plan, and Good Research Practice.”</span> Edited by Jason A. Papin. <em>PLOS Computational Biology</em> 19 (4): e1011052. <a href="https://doi.org/10.1371/journal.pcbi.1011052">https://doi.org/10.1371/journal.pcbi.1011052</a>.
+</div>
+</div>
 
-</section></section>
+</section>
     </div>
   <div class="quarto-auto-generated-content" style="display: none;">
 <div class="footer footer-default">
@@ -407,7 +415,7 @@ Matthias König <a href="https://orcid.org/0000-0003-1725-179X" class="quarto-ti
         previewLinks: false,
 
         // Transition style (none/fade/slide/convex/concave/zoom)
-        transition: 'none',
+        transition: 'zoom',
 
         // Transition speed (default/fast/slow)
         transitionSpeed: 'default',
