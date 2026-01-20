@@ -23,8 +23,7 @@ bibliography: content/references.bib
 
 ## {background-image="content/teamwork.jpg" background-size="contain"}
 
----
-
+<!--
 ## What do you think?
 - Mentimeter
 - [@Stawarczyk2023]
@@ -32,61 +31,228 @@ bibliography: content/references.bib
 ::: {.notes}
 Let's start with a quick poll on what you think is important!
 :::
-
+-->
 
 
 ## 1: Collaboration
 ### You must choose your collaboration partners wisely.
 
+::: {.fragment}
 :::: {.columns}
-
 ::: {.column width="50%"}
-![](content/collaboration.jpg){.r-stretch}
+![](content/collaboration.jpg){height="250"}
 :::
-
 ::: {.column width="50%"}
-- point 1
-- point 2
+- most frictions arise from different expections
+- communication is key (early, often)
 :::
-
-
 ::::
+:::
 
-. . .
-
-Application
-
-::: aside
-Reference
+::: {.fragment}
+### Actionable items
+- Openly discuss expectations
+- Be transparent
+- Agree on funding sources
 :::
 
 
 ## 2: Data/Metadata
 ### Partners must agree on data and metadata.
 
+::: {.fragment}
+:::: {.columns}
+::: {.column width="50%"}
+![](content/data_metadata.png){height="250"}
+:::
+::: {.column width="50%"}
+- Data and metadata are the items which are exchanged.
+:::
+::::
+:::
+
+::: {.fragment}
+### Actionable items
+- Follow the FAIR guidelines [@Wilkinson2016]
+- Define file formats and file naming policies
+- Follow good practises (e.g. for spreadsheets and sensitive data)
+:::
+
+
 ## 3: Publication
 ### Publication policies must be clearly defined.
+
+::: {.fragment}
+:::: {.columns}
+::: {.column width="50%"}
+![](content/publication.png){height="250"}
+:::
+::: {.column width="50%"}
+- Agree on research dissemination.
+- Discuss authorships and contribution policies.
+:::
+::::
+:::
+
+::: {.fragment}
+### Actionable items
+- Embrace author contribution taxonomies like CRediT [@Allen]
+- Re-evaluate on major changes.
+:::
+
 
 ## 4: Experimental Design
 ### Experimental designs must be defined by all partners.
 
+::: {.fragment}
+:::: {.columns}
+::: {.column width="50%"}
+![](content/experimental_design.jpg){height="250"}
+:::
+::: {.column width="50%"}
+- Agree on research dissemination.
+- Discuss authorships and contribution policies.
+:::
+::::
+:::
+
+::: {.fragment}
+### Actionable items
+- Embrace author contribution taxonomies like CRediT [@Allen]
+- Re-evaluate on major changes.
+:::
+
+
 ## 5: Project Management
 ### Partners must agree on project and time management.
+
+::: {.fragment}
+:::: {.columns}
+::: {.column width="50%"}
+![](content/project_management.jpg){height="250"}
+:::
+::: {.column width="50%"}
+- Agree on research dissemination.
+- Discuss authorships and contribution policies.
+:::
+::::
+:::
+
+::: {.fragment}
+### Actionable items
+- Embrace author contribution taxonomies like CRediT [@Allen]
+- Re-evaluate on major changes.
+:::
 
 ## 6: Communication
 ### Early and open communication is essential for success.
 
+::: {.fragment}
+:::: {.columns}
+::: {.column width="50%"}
+![](content/communication.jpg){height="250"}
+:::
+::: {.column width="50%"}
+- Agree on research dissemination.
+- Discuss authorships and contribution policies.
+:::
+::::
+:::
+
+::: {.fragment}
+### Actionable items
+- Embrace author contribution taxonomies like CRediT [@Allen]
+- Re-evaluate on major changes.
+:::
+
 ## 7: Reproducible Science
 ### Open and reproducible Science is essential.
+
+::: {.fragment}
+:::: {.columns}
+::: {.column width="50%"}
+![](content/reproducible_science.png){height="250"}
+:::
+::: {.column width="50%"}
+- Agree on research dissemination.
+- Discuss authorships and contribution policies.
+:::
+::::
+:::
+
+::: {.fragment}
+### Actionable items
+- Embrace author contribution taxonomies like CRediT [@Allen]
+- Re-evaluate on major changes.
+:::
 
 ## 8: Transparency/Trust
 ### Transparency and trust is important.
 
+::: {.fragment}
+:::: {.columns}
+::: {.column width="50%"}
+![](content/transparancy.jpg){height="250"}
+:::
+::: {.column width="50%"}
+- Agree on research dissemination.
+- Discuss authorships and contribution policies.
+:::
+::::
+:::
+
+::: {.fragment}
+### Actionable items
+- Embrace author contribution taxonomies like CRediT [@Allen]
+- Re-evaluate on major changes.
+:::
+
 ## 9: Respect
 ### Respect and appreciation of partners is essential.
 
+::: {.fragment}
+:::: {.columns}
+::: {.column width="50%"}
+![](content/respect.jpg){height="250"}
+:::
+::: {.column width="50%"}
+- Agree on research dissemination.
+- Discuss authorships and contribution policies.
+:::
+::::
+:::
+
+::: {.fragment}
+### Actionable items
+- Embrace author contribution taxonomies like CRediT [@Allen]
+- Re-evaluate on major changes.
+:::
+
 ## 10: Learn as a Team 
 ### Collaboration is a learning process in a group.
+
+::: {.fragment}
+:::: {.columns}
+::: {.column width="50%"}
+![](content/team.jpg){height="250"}
+:::
+::: {.column width="50%"}
+- Agree on research dissemination.
+- Discuss authorships and contribution policies.
+:::
+::::
+:::
+
+::: {.fragment}
+### Actionable items
+- Embrace author contribution taxonomies like CRediT [@Allen]
+- Re-evaluate on major changes.
+:::
+
+<!--
+## 11: Summary
+![](content/summmary.png)
+-->
 
 ## References
 ::: {#refs}
