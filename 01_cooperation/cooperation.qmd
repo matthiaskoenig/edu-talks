@@ -1,6 +1,6 @@
 ---
 title: How to make successful collaborations between computational biologists and experimentalists?
-subtitle: A 10 Simple Rules Eductional Series
+subtitle: A 10 Simple Rules Educational Series
 format: clean-revealjs
 author:
   - name: Matthias König
@@ -12,13 +12,13 @@ title-slide-attributes:
   data-notes: Some speaker notes
 # logo: images/logo.png
 # footer: "Systems Medicine of Liver, https://livermetabolism.com"
-transition: zoom
 transition-speed: default
 width: 1050
 height: 700
 margin: 0.1
-bibliography: content/references.bib
+bibliography: 01_collaboration.bib
 # csl: content/frontiers.csl
+css: styles.css
 ---
 
 ## {background-image="content/teamwork.jpg" background-size="contain"}
@@ -34,13 +34,13 @@ Let's start with a quick poll on what you think is important!
 -->
 
 
-## 1: Collaboration
+## 1: Collaboration^[@Robinson2024, @Stawarczyk2023, @Cechova2020]
 ### You must choose your collaboration partners wisely.
 
 ::: {.fragment}
 :::: {.columns}
 ::: {.column width="50%"}
-![](content/collaboration.jpg){height="250"}
+![](content/collaboration.jpg){.fig-rule}
 :::
 ::: {.column width="50%"}
 - most frictions arise from different expections
@@ -63,7 +63,7 @@ Let's start with a quick poll on what you think is important!
 ::: {.fragment}
 :::: {.columns}
 ::: {.column width="50%"}
-![](content/data_metadata.png){height="250"}
+![](content/data_metadata.png){.fig-rule}
 :::
 ::: {.column width="50%"}
 - Data and metadata are the items which are exchanged.
@@ -73,7 +73,7 @@ Let's start with a quick poll on what you think is important!
 
 ::: {.fragment}
 ### Actionable items
-- Follow the FAIR guidelines [@Wilkinson2016]
+- Follow the FAIR guidelines^[@Wilkinson2016]
 - Define file formats and file naming policies
 - Follow good practises (e.g. for spreadsheets and sensitive data)
 :::
@@ -85,7 +85,7 @@ Let's start with a quick poll on what you think is important!
 ::: {.fragment}
 :::: {.columns}
 ::: {.column width="50%"}
-![](content/publication.png){height="250"}
+![](content/publication.png){.fig-rule}
 :::
 ::: {.column width="50%"}
 - Agree on research dissemination.
@@ -96,22 +96,22 @@ Let's start with a quick poll on what you think is important!
 
 ::: {.fragment}
 ### Actionable items
-- Embrace author contribution taxonomies like CRediT [@Allen]
+- Embrace author contribution taxonomies like CRediT^[@Allen2014] ([https:// credit.niso.org/](https:// credit.niso.org/))
 - Re-evaluate on major changes.
 :::
 
 
 ## 4: Experimental Design
-### Experimental designs must be defined by all partners.
+### Experimental designs must be defined by all partners.
 
 ::: {.fragment}
 :::: {.columns}
 ::: {.column width="50%"}
-![](content/experimental_design.jpg){height="250"}
+![](content/experimental_design.jpg){.fig-rule}
 :::
 ::: {.column width="50%"}
 - Discuss the experimental designs early.
-- Involve computational bioligists.
+- Involve computational biologists.
 :::
 ::::
 :::
@@ -128,7 +128,7 @@ Let's start with a quick poll on what you think is important!
 ::: {.fragment}
 :::: {.columns}
 ::: {.column width="50%"}
-![](content/project_management.jpg){height="250"}
+![](content/project_management.jpg){.fig-rule}
 :::
 ::: {.column width="50%"}
 - Agree on milestones and timelines.
@@ -149,7 +149,7 @@ Let's start with a quick poll on what you think is important!
 ::: {.fragment}
 :::: {.columns}
 ::: {.column width="50%"}
-![](content/communication.jpg){height="250"}
+![](content/communication.jpg){.fig-rule}
 :::
 ::: {.column width="50%"}
 - Communicate early, openly, and often enough.
@@ -159,8 +159,8 @@ Let's start with a quick poll on what you think is important!
 
 ::: {.fragment}
 ### Actionable items
-- Adhere to effective meetings [11]
-- Adhere to written interactions guidelines [12]
+- Adhere to effective meetings^[@LeBlanc2019]
+- Adhere to written interactions guidelines^[Gruber2020]
 :::
 
 ## 7: Reproducible Science
@@ -169,7 +169,7 @@ Let's start with a quick poll on what you think is important!
 ::: {.fragment}
 :::: {.columns}
 ::: {.column width="50%"}
-![](content/reproducible_science.png){height="250"}
+![](content/reproducible_science.png){.fig-rule}
 :::
 ::: {.column width="50%"}
 - Follow open and reproducible science guidelines.
@@ -190,7 +190,7 @@ Let's start with a quick poll on what you think is important!
 ::: {.fragment}
 :::: {.columns}
 ::: {.column width="50%"}
-![](content/transparancy.jpg){height="250"}
+![](content/transparancy.jpg){.fig-rule}
 :::
 ::: {.column width="50%"}
 - Establish the transparency and trust required for constructive feedback.
@@ -210,7 +210,7 @@ Let's start with a quick poll on what you think is important!
 ::: {.fragment}
 :::: {.columns}
 ::: {.column width="50%"}
-![](content/respect.jpg){height="250"}
+![](content/respect.jpg){.fig-rule}
 :::
 ::: {.column width="50%"}
 - Be respectful and show appreciation.
@@ -221,7 +221,7 @@ Let's start with a quick poll on what you think is important!
 ::: {.fragment}
 ### Actionable items
 - Be respectful
-- Be aware of common cognitive biases (e.g. impostor syndrome [16] and Dunning–Kruger effect [17])
+- Be aware of common cognitive biases (e.g. impostor syndrome^[@clance1978imposter] and Dunning–Kruger effect^[@Kruger1999])
 :::
 
 ## 10: Learn as a Team 
@@ -230,7 +230,7 @@ Let's start with a quick poll on what you think is important!
 ::: {.fragment}
 :::: {.columns}
 ::: {.column width="50%"}
-![](content/team.jpg){height="250"}
+![](content/team.jpg){.fig-rule}
 :::
 ::: {.column width="50%"}
 - Learn as a team
@@ -252,4 +252,18 @@ Let's start with a quick poll on what you think is important!
 
 ## References
 ::: {#refs}
+:::
+
+## Contact
+::: {style="text-align: center; margin-top: 0.5em"}
+::: {.columns}
+
+::: {.column width="50%"}
+[![](content/qr_livermetabolism.png){.fixed-img}](https://livermetabolism.com){.fixed-img}
+:::
+::: {.column width="50%"}
+![](content/headshot.png){.fixed-img}
+:::
+
+:::
 :::
