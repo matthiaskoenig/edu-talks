@@ -1,0 +1,16 @@
+# About
+Dr. Matthias König is a researcher and educator at Humboldt-Universität zu Berlin and University Stuttgart, where he leads the *Systems Medicine of the Liver* group. His work focuses on computational modeling, pharmacokinetics, and digital health education. He is passionate about making complex biomedical processes understandable and accessible through open, interactive learning resources.  
+
+
+![Dr. Matthias König](./content/koenig.png){width=300}
+
+**Dr. Matthias König**  
+
+*Head of Systems Medicine of the Liver Lab*  
+Humboldt-Universität zu Berlin, Faculty of Life Science, Institute of Biology, ITB
+
+*Head of Computational Biomechanics Group*  
+University of Stuttgart, Institute of Structural Mechanics and Dynamics in Aerospace Engineering
+
+[https://livermetabolism.com](https://livermetabolism.com)
+

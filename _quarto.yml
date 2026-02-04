@@ -1,0 +1,69 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Education Talks"
+  site-url: "https://matthiaskoenig/edu-talks"
+  favicon: content/education.png
+  image: content/education.png
+  open-graph: true
+  page-navigation: true
+  bread-crumbs: true
+  repo-url: https://github.com/matthiaskoenig/edu-talks
+  repo-branch: main
+  repo-subdir: /
+  repo-link-target: _blank
+  repo-actions: [ edit, source, issue ]
+  issue-url: https://github.com/matthiaskoenig/edu-talks/issues
+
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+
+  sidebar:
+    style: "docked"
+    type: "dark"
+    search: true
+    contents:
+       - href: index.qmd
+         text: Home
+
+       - section: "Talks"
+         contents:
+          - href: 01_collaboration.qmd
+            text: 1. Collaboration
+          - href: 02_graphical_abstract.qmd
+            text: 2. Graphical abstract
+
+       - href: about.qmd
+         text: About
+
+#    tools:
+#      - icon: github
+#        menu:
+#          - text: Source Code
+#            href: https://github.com/matthiaskoenig/pymetadata
+#          - text: Report a Bug
+#            href: https://github.com/matthiaskoenig/pymetadata/issues
+
+
+  page-footer:
+    left: "Copyright 2026, Matthias König, [https://livermetabolism.com](https://livermetabolism.com)"
+    right:
+      - icon: github
+        href: https://github.com/matthiaskoenig
+      - icon: linkedin
+        href: https://www.linkedin.com/in/matthias-koenig/
+      - icon: orcid
+        href: https://orcid.org/0000-0003-1725-179X
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    toc: true

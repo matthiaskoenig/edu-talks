@@ -1,0 +1,29 @@
+# How to create successful graphical abstracts?
+
+Graphical abstracts have become a central element of modern scientific communication. When done well, they provide a **clear, concise, and visually compelling summary** of a study’s main message. When done poorly, they can confuse readers, obscure key results, or misrepresent the science.
+
+This second session of the **Ten Simple Rules Educational Series** focuses on how to design **effective graphical abstracts** that communicate complex ideas with clarity and precision. The session distills practical experience from publications, peer review, and editorial practice into **ten simple rules** that guide the creation of graphical abstracts that are scientifically accurate, visually coherent, and audience-aware.
+
+Key topics include:
+- Defining a single, clear message before starting the design  
+- Choosing the right level of abstraction and visual complexity  
+- Structuring layouts to guide the reader’s attention  
+- Using color, symbols, and typography consistently  
+- Avoiding common pitfalls such as visual overload or ambiguous graphics  
+- Adapting graphical abstracts to different journals and audiences  
+
+The session emphasizes that graphical abstracts are **not illustrations for experts**, but communication tools for a broad scientific audience. Participants will learn how to translate their research into visuals that support understanding, reproducibility, and impact—without oversimplifying the science.
+
+This session is aimed at students and researchers across disciplines who want to improve how their work is perceived, understood, and remembered in an increasingly visual scientific landscape.
+
+## Slides
+```{=html}
+<a href="./02_graphical_abstract/index.html" target="_blank">
+<img src="./content/slides.png" alt="Open slides" width=50/> Open slides
+</a>
+```
+---
+```{=html}
+<iframe width="780" height="500" src="./02_graphical_abstract/index.html" title="Graphical Abstract"></iframe>
+```
+

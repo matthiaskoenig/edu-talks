@@ -1,0 +1,76 @@
+---
+title: How to create successful graphical abstracts?
+subtitle: A 10 simple rules educational series
+format: clean-revealjs
+author:
+  - name: Matthias König
+    orcid: 0000-0003-1725-179X
+    github: matthiaskoenig
+    linkedin: matthias-koenig
+    email: konigmatt@gmail.com<br /> https://livermetabolism.com, https://matthiaskoenig.github.io/edu-talks
+    affiliations: Humboldt-Universität zu Berlin, Faculty of Life Science, Institute of Biology, ITB <br />University of Stuttgart, Institute of Structural Mechanics and Dynamics in Aerospace Engineering
+date: 02/10/2026
+title-slide-attributes: 
+  data-notes: Some speaker notes
+transition-speed: default
+width: 1050
+height: 700
+margin: 0.1
+bibliography: references.bib
+css: styles.css
+---
+
+
+
+
+
+## References
+::: {#refs}
+:::
+
+## Contact
+::: {style="text-align: center; margin-top: 0.5em"}
+::: {.columns}
+
+::: {.column width="50%"}
+[![](content/qr_livermetabolism.png){.fixed-img}](https://livermetabolism.com){.fixed-img}
+:::
+::: {.column width="50%"}
+![](content/headshot.png){.fixed-img}
+:::
+
+:::
+:::
+
+<!--
+https://www.mdpi.com/journal/pharmaceutics/instructions
+
+    Graphical Abstract: A graphical abstract (GA) is an image that appears beneath the text abstract. In addition to summarizing the content, it should represent the topic of the article in an attention-grabbing way. Moreover, before you submit any figures for the graphical abstract, please check the following list to ensure your files meet MDPI’s graphical abstract (GA) criteria:
+        A graphical abstract should not be exactly the same as any figure in the body of the paper, a simple superposition of several subfigures, or a combination of the text abstract and a picture.
+        A graphical abstract should be original and unpublished artwork. Any postage stamps, currency from any country, or trademarked items should not be included in it. No copyrighted material should be used in a GA.
+        A graphical abstract should be a high-quality illustration or diagram in any of the following file formats: PNG, JPEG, or TIFF.
+        The minimum required size for the graphical abstract is 560 × 1100 pixels (height × width).
+        Written text in a graphical abstract should be clear and easy to read. It is recommended to use fonts such as Times, Arial, Courier, Helvetica, Ubuntu, and Calibri.
+        Please use symbols correctly, and do not use commas instead of decimal points in numbers.
+        Avoid large blocks of text or large blank spaces in the image.
+        Do not include “Graphical Abstract” as a heading in the image.
+
+The graphical abstract will be displayed on the online version of the article, but is typically absent from the print version or article PDF file.
+General tips:
+https://pmc.ncbi.nlm.nih.gov/articles/PMC10833524/pdf/pcbi.1011789.pdf (attached)
+https://solutions.springernature.com/blogs/visibility/5-tips-for-creating-a-graphical-abstract
+https://www.biorender.com/blog/top-4-tips-for-designing-a-graphical-abstract
+https://www.editage.com/insights/top-10-tips-for-an-effective-graphical-abstract
+
+Start with the message
+- Define 1 main take‑home message, plus at most 2–3 key findings to show; everything else is background noise.
+- Sketch a tiny thumbnail first (paper + pencil) to plan the flow: left‑to‑right or top‑to‑bottom “problem → method → key result → implication.”
+Keep design extremely simple
+- Use a clean layout with few elements, lots of white space, and a clear visual hierarchy so it is understandable in 3–5 seconds.
+- Avoid clutter: no detailed datasets, long legends, or multiple complex graphs; show only representative icons, arrows, and 1–2 simplified plots if essential.
+Use consistent visuals
+- Choose a limited color palette (2–3 main colors + neutrals) and 1–2 simple sans‑serif fonts; keep line widths and icon styles consistent.
+- Reuse the same color or icon for the same concept throughout so readers can follow the logic quickly.
+Integrate text sparingly
+- Use short labels, not sentences: keywords, 2–4 word phrases, or at most 1–2 bullet points of 10–12 words each.
+-->

@@ -1,0 +1,23 @@
+## Ten Simple Rules – An Educational Series for Modern Computational Science
+
+The **Ten Simple Rules** educational series is a curated program designed to support researchers, students, and educators in navigating the practical realities of modern computational and data-driven science.
+
+Building on the well-known *Ten Simple Rules* articles published in *PLOS*, this series translates widely adopted best practices into **concise, actionable guidance** for everyday research, teaching, and collaboration. The focus is not only on *what* to do, but *how* to do it well—across the full research lifecycle.
+
+![](./content/10_simple_rules.png){width=500}
+
+
+The series covers key topics at the intersection of **computational biology, statistics, data science, and open science**, including:
+
+- Reproducible and FAIR research workflows  
+- Effective use of public biological and clinical data  
+- Sound statistical practice and model evaluation  
+- Scientific visualization and graphical abstracts  
+- Posters, presentations, and scientific storytelling  
+- Software, code, and workflow sustainability  
+- Collaboration, mentoring, and community building  
+
+Each session distills complex experience into **ten clear principles**, illustrated with real examples, practical recommendations, and common pitfalls. The format is designed to be accessible, discussion-driven, and immediately useful—whether you are early in your career or an experienced researcher refining your practice.
+
+By combining methodological rigor with openness, transparency, and clarity, the *Ten Simple Rules* educational series aims to empower the next generation of scientists to do **better, more reproducible, and more impactful research**—and to communicate it effectively.
+

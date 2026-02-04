@@ -1,0 +1,30 @@
+# How to make successful collaborations between computational biologists and experimentalists?
+
+
+Modern life-science research increasingly depends on **close collaboration between computation and experiment**. Yet many interdisciplinary projects struggle—not because of missing expertise, but because of mismatched expectations, unclear communication, and poorly aligned workflows.
+
+This first session of the **Ten Simple Rules Educational Series** focuses on the practical foundations of successful collaborations between **computational biologists and experimentalists**. Drawing on real project experience, the session distills common challenges and proven solutions into **ten simple, actionable rules** that help interdisciplinary teams work effectively from day one.
+
+The session addresses key questions such as:
+- How can collaborators align scientific questions, assumptions, and success criteria early on?
+- What should be clarified about data, models, timelines, and responsibilities before a project starts?
+- How can experimental and computational workflows be connected in a reproducible and transparent way?
+- How do communication, documentation, and shared language influence long-term success?
+- What typically goes wrong—and how can it be avoided?
+
+Rather than focusing on tools alone, this session emphasizes **people, processes, and shared understanding** as the foundation of productive interdisciplinary research. It is aimed at students, PhD candidates, postdocs, and PIs who work—or plan to work—across the boundaries of computation and experiment.
+
+By the end of the session, participants will have a clear framework for building collaborations that are **trust-based, efficient, reproducible, and scientifically impactful**.
+
+
+# Slides
+```{=html}
+<a href="./01_collaboration/index.html" target="_blank">
+<img src="./content/slides.png" alt="Open slides" width=50/> Open slides
+</a>
+```
+---
+
+```{=html}
+<iframe width="780" height="500" src="./01_collaboration/index.html" title="Collaboration"></iframe>
+```
