@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Education Talks"
-  site-url: "https://matthiaskoenig/edu-talks"
+  site-url: "https://github.io/matthiaskoenig/edu-talks"
   favicon: content/education.png
   image: content/education.png
   open-graph: true
