@@ -52,7 +52,7 @@ website:
 
 
   page-footer:
-    left: "Copyright 2026, Matthias König, [https://livermetabolism.com](https://livermetabolism.com)"
+    left: "[![Quarto Publish](https://github.com/matthiaskoenig/edu-talks/actions/workflows/publish.yml/badge.svg)](https://github.com/matthiaskoenig/edu-talks/actions/workflows/publish.yml) Copyright 2026, Matthias König, [https://livermetabolism.com](https://livermetabolism.com)"
     right:
       - icon: github
         href: https://github.com/matthiaskoenig

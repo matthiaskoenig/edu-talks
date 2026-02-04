@@ -1,3 +1,4 @@
+[![Quarto Publish](https://github.com/matthiaskoenig/edu-talks/actions/workflows/publish.yml/badge.svg)](https://github.com/matthiaskoenig/edu-talks/actions/workflows/publish.yml)
 # Ten Simple Rules – An Educational Series for Modern Computational Science
 
 The **Ten Simple Rules** educational series is a curated program designed to support researchers, students, and educators in navigating the practical realities of modern computational and data-driven science.
@@ -5,6 +6,8 @@ The **Ten Simple Rules** educational series is a curated program designed to sup
 Building on the well-known *Ten Simple Rules* articles published in *PLOS*, this series translates widely adopted best practices into **concise, actionable guidance** for everyday research, teaching, and collaboration. The focus is not only on *what* to do, but *how* to do it well—across the full research lifecycle.
 
 ![](./content/10_simple_rules.png)
+
+The website with the presentations is available from https://matthiaskoenig.github.io/edu-talks/.
 
 ## Installation
 Install quarto from https://quarto.org/
