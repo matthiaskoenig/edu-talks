@@ -1,4 +1,4 @@
-## Ten Simple Rules – An Educational Series for Modern Computational Science
+# Ten Simple Rules – An Educational Series for Modern Computational Science
 
 The **Ten Simple Rules** educational series is a curated program designed to support researchers, students, and educators in navigating the practical realities of modern computational and data-driven science.
 
