@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://github.io/matthiaskoenig/edu-talks/01_collaboration/index.html</loc>
+    <lastmod>2026-02-04T00:28:00.277Z</lastmod>
+  </url>
+  <url>
     <loc>https://github.io/matthiaskoenig/edu-talks/about.html</loc>
-    <lastmod>2026-02-04T00:18:26.600Z</lastmod>
+    <lastmod>2026-02-04T00:28:00.288Z</lastmod>
   </url>
   <url>
     <loc>https://github.io/matthiaskoenig/edu-talks/index.html</loc>
-    <lastmod>2026-02-04T00:18:26.614Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.io/matthiaskoenig/edu-talks/02_graphical_abstract/index.html</loc>
-    <lastmod>2026-02-04T00:18:26.600Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.io/matthiaskoenig/edu-talks/01_collaboration.html</loc>
-    <lastmod>2026-02-04T00:18:26.564Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.io/matthiaskoenig/edu-talks/01_collaboration/index.html</loc>
-    <lastmod>2026-02-04T00:18:26.592Z</lastmod>
+    <lastmod>2026-02-04T00:28:00.303Z</lastmod>
   </url>
   <url>
     <loc>https://github.io/matthiaskoenig/edu-talks/02_graphical_abstract.html</loc>
-    <lastmod>2026-02-04T00:18:26.593Z</lastmod>
+    <lastmod>2026-02-04T00:28:00.278Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.io/matthiaskoenig/edu-talks/01_collaboration.html</loc>
+    <lastmod>2026-02-04T00:28:00.267Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.io/matthiaskoenig/edu-talks/02_graphical_abstract/index.html</loc>
+    <lastmod>2026-02-04T00:28:00.288Z</lastmod>
   </url>
 </urlset>
