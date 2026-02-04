@@ -7,7 +7,7 @@ author:
     orcid: 0000-0003-1725-179X
     github: matthiaskoenig
     linkedin: matthias-koenig
-    email: konigmatt@gmail.com<br /> https://livermetabolism.com, https://matthiaskoenig.github.io/edu-talks
+    email: https://matthiaskoenig.github.io/edu-talks<br />konigmatt@gmail.com, https://livermetabolism.com
     affiliations: Humboldt-Universität zu Berlin, Faculty of Life Science, Institute of Biology, ITB <br />University of Stuttgart, Institute of Structural Mechanics and Dynamics in Aerospace Engineering
 date: 02/10/2026
 title-slide-attributes: 

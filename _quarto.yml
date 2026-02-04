@@ -35,9 +35,9 @@ website:
        - section: "Talks"
          contents:
           - href: 01_collaboration.qmd
-            text: 1. Collaboration
+            text: 1. Collaborations
           - href: 02_graphical_abstract.qmd
-            text: 2. Graphical abstract
+            text: 2. Graphical abstracts
 
        - href: about.qmd
          text: About
