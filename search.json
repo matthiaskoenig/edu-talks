@@ -1,0 +1,157 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About\nDr. Matthias König is a researcher and educator at Humboldt-Universität zu Berlin and University Stuttgart, where he leads the Systems Medicine of the Liver group. His work focuses on computational modeling, pharmacokinetics, and digital health education. He is passionate about making complex biomedical processes understandable and accessible through open, interactive learning resources.\n\n\n\nDr. Matthias König\n\n\nDr. Matthias König\nHead of Systems Medicine of the Liver Lab\nHumboldt-Universität zu Berlin, Faculty of Life Science, Institute of Biology, ITB\nHead of Computational Biomechanics Group\nUniversity of Stuttgart, Institute of Structural Mechanics and Dynamics in Aerospace Engineering\nhttps://livermetabolism.com",
+    "crumbs": [
+      "Home",
+      "About"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ten Simple Rules – An Educational Series for Modern Computational Science",
+    "section": "",
+    "text": "Ten Simple Rules – An Educational Series for Modern Computational Science\nThe Ten Simple Rules educational series is a curated program designed to support researchers, students, and educators in navigating the practical realities of modern computational and data-driven science.\nBuilding on the well-known Ten Simple Rules articles published in PLOS, this series translates widely adopted best practices into concise, actionable guidance for everyday research, teaching, and collaboration. The focus is not only on what to do, but how to do it well—across the full research lifecycle.\n\nThe series covers key topics at the intersection of computational biology, statistics, data science, and open science, including:\n\nReproducible and FAIR research workflows\n\nEffective use of public biological and clinical data\n\nSound statistical practice and model evaluation\n\nScientific visualization and graphical abstracts\n\nPosters, presentations, and scientific storytelling\n\nSoftware, code, and workflow sustainability\n\nCollaboration, mentoring, and community building\n\nEach session distills complex experience into ten clear principles, illustrated with real examples, practical recommendations, and common pitfalls. The format is designed to be accessible, discussion-driven, and immediately useful—whether you are early in your career or an experienced researcher refining your practice.\nBy combining methodological rigor with openness, transparency, and clarity, the Ten Simple Rules educational series aims to empower the next generation of scientists to do better, more reproducible, and more impactful research—and to communicate it effectively.",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "02_graphical_abstract/index.html#references",
+    "href": "02_graphical_abstract/index.html#references",
+    "title": "How to create successful graphical abstracts?",
+    "section": "References",
+    "text": "References"
+  },
+  {
+    "objectID": "02_graphical_abstract/index.html#contact",
+    "href": "02_graphical_abstract/index.html#contact",
+    "title": "How to create successful graphical abstracts?",
+    "section": "Contact",
+    "text": "Contact"
+  },
+  {
+    "objectID": "01_collaboration.html",
+    "href": "01_collaboration.html",
+    "title": "How to make successful collaborations between computational biologists and experimentalists?",
+    "section": "",
+    "text": "How to make successful collaborations between computational biologists and experimentalists?\nModern life-science research increasingly depends on close collaboration between computation and experiment. Yet many interdisciplinary projects struggle—not because of missing expertise, but because of mismatched expectations, unclear communication, and poorly aligned workflows.\nThis first session of the Ten Simple Rules Educational Series focuses on the practical foundations of successful collaborations between computational biologists and experimentalists. Drawing on real project experience, the session distills common challenges and proven solutions into ten simple, actionable rules that help interdisciplinary teams work effectively from day one.\nThe session addresses key questions such as: - How can collaborators align scientific questions, assumptions, and success criteria early on? - What should be clarified about data, models, timelines, and responsibilities before a project starts? - How can experimental and computational workflows be connected in a reproducible and transparent way? - How do communication, documentation, and shared language influence long-term success? - What typically goes wrong—and how can it be avoided?\nRather than focusing on tools alone, this session emphasizes people, processes, and shared understanding as the foundation of productive interdisciplinary research. It is aimed at students, PhD candidates, postdocs, and PIs who work—or plan to work—across the boundaries of computation and experiment.\nBy the end of the session, participants will have a clear framework for building collaborations that are trust-based, efficient, reproducible, and scientifically impactful.\n\n\nSlides\n\n Open slides",
+    "crumbs": [
+      "Home",
+      "Talks",
+      "1. Collaboration"
+    ]
+  },
+  {
+    "objectID": "01_collaboration/index.html#collaboration",
+    "href": "01_collaboration/index.html#collaboration",
+    "title": "How to make successful collaborations between computational biologists and experimentalists?",
+    "section": "1: Collaboration1",
+    "text": "1: Collaboration1\nYou must choose your collaboration partners wisely.\n\n\n\n\n\n\nmost frictions arise from different expections\ncommunication is key (early, often)\n\n\n\n\nActionable items\n\nOpenly discuss expectations\nBe transparent\nAgree on funding sources\n\n\nRobinson et al. (2024), Stawarczyk and Roos (2023), Cechova (2020)"
+  },
+  {
+    "objectID": "01_collaboration/index.html#datametadata",
+    "href": "01_collaboration/index.html#datametadata",
+    "title": "How to make successful collaborations between computational biologists and experimentalists?",
+    "section": "2: Data/Metadata",
+    "text": "2: Data/Metadata\nPartners must agree on data and metadata.\n\n\n\n\n\n\nData and metadata are the items which are exchanged.\n\n\n\n\nActionable items\n\nFollow the FAIR guidelines1\nDefine file formats and file naming policies\nFollow good practises (e.g. for spreadsheets and sensitive data)\n\n\nWilkinson et al. (2016)"
+  },
+  {
+    "objectID": "01_collaboration/index.html#publication",
+    "href": "01_collaboration/index.html#publication",
+    "title": "How to make successful collaborations between computational biologists and experimentalists?",
+    "section": "3: Publication",
+    "text": "3: Publication\nPublication policies must be clearly defined.\n\n\n\n\n\n\nAgree on research dissemination.\nDiscuss authorships and contribution policies.\n\n\n\n\nActionable items\n\nEmbrace author contribution taxonomies like CRediT1 (https:// credit.niso.org/)\nRe-evaluate on major changes.\n\n\nAllen et al. (2014)"
+  },
+  {
+    "objectID": "01_collaboration/index.html#experimental-design",
+    "href": "01_collaboration/index.html#experimental-design",
+    "title": "How to make successful collaborations between computational biologists and experimentalists?",
+    "section": "4: Experimental Design",
+    "text": "4: Experimental Design\nExperimental designs must be defined by all partners.\n\n\n\n\n\n\nDiscuss the experimental designs early.\nInvolve computational biologists.\n\n\n\n\nActionable items\n\nInclude test and pilot experiments in your experimental design"
+  },
+  {
+    "objectID": "01_collaboration/index.html#project-management",
+    "href": "01_collaboration/index.html#project-management",
+    "title": "How to make successful collaborations between computational biologists and experimentalists?",
+    "section": "5: Project Management",
+    "text": "5: Project Management\nPartners must agree on project and time management.\n\n\n\n\n\n\nAgree on milestones and timelines.\nWork collaboratively.\n\n\n\n\nActionable items\n\nUse online project planners (i.e., Trello, GitHub projects);\nuse multiuser online text editors (i.e., Google Docs, Overleaf) to draft manuscripts and other documents"
+  },
+  {
+    "objectID": "01_collaboration/index.html#communication",
+    "href": "01_collaboration/index.html#communication",
+    "title": "How to make successful collaborations between computational biologists and experimentalists?",
+    "section": "6: Communication",
+    "text": "6: Communication\nEarly and open communication is essential for success.\n\n\n\n\n\n\nCommunicate early, openly, and often enough.\n\n\n\n\nActionable items\n\nAdhere to effective meetings1\nAdhere to written interactions guidelines2\n\n\nLeBlanc and Nosik (2019)Gruber2020"
+  },
+  {
+    "objectID": "01_collaboration/index.html#reproducible-science",
+    "href": "01_collaboration/index.html#reproducible-science",
+    "title": "How to make successful collaborations between computational biologists and experimentalists?",
+    "section": "7: Reproducible Science",
+    "text": "7: Reproducible Science\nOpen and reproducible Science is essential.\n\n\n\n\n\n\nFollow open and reproducible science guidelines.\n\n\n\n\nActionable items\n\nUse version control (i.e., GitHub, BitBucket, GitLab)\ninclude reproducible and versioned software installation steps\ncreate an analysis workflows that can easily be rerun"
+  },
+  {
+    "objectID": "01_collaboration/index.html#transparencytrust",
+    "href": "01_collaboration/index.html#transparencytrust",
+    "title": "How to make successful collaborations between computational biologists and experimentalists?",
+    "section": "8: Transparency/Trust",
+    "text": "8: Transparency/Trust\nTransparency and trust is important.\n\n\n\n\n\n\nEstablish the transparency and trust required for constructive feedback.\n\n\n\n\nActionable items\n\nShare all raw and processed data (Open Data)\nListen to and acknowledge dissenting opinions"
+  },
+  {
+    "objectID": "01_collaboration/index.html#respect",
+    "href": "01_collaboration/index.html#respect",
+    "title": "How to make successful collaborations between computational biologists and experimentalists?",
+    "section": "9: Respect",
+    "text": "9: Respect\nRespect and appreciation of partners is essential.\n\n\n\n\n\n\nBe respectful and show appreciation.\n\n\n\n\nActionable items\n\nBe respectful\nBe aware of common cognitive biases (e.g. impostor syndrome1 and Dunning–Kruger effect2)\n\n\nClance and Imes (1978)Kruger and Dunning (1999)"
+  },
+  {
+    "objectID": "01_collaboration/index.html#learn-as-a-team",
+    "href": "01_collaboration/index.html#learn-as-a-team",
+    "title": "How to make successful collaborations between computational biologists and experimentalists?",
+    "section": "10: Learn as a Team",
+    "text": "10: Learn as a Team\nCollaboration is a learning process in a group.\n\n\n\n\n\n\nLearn as a team\n\n\n\n\nActionable items\n\nAdd explanatory comments to the analysis code\nDo not shy away from asking what you do not understand\nCommit to answering basic and advanced questions about the analysis"
+  },
+  {
+    "objectID": "01_collaboration/index.html#references",
+    "href": "01_collaboration/index.html#references",
+    "title": "How to make successful collaborations between computational biologists and experimentalists?",
+    "section": "References",
+    "text": "References\n\n\nAllen, Liz, Amy Brand, Jo Scott, Micah Altman, and Marjorie Hlava. 2014. “Credit Where Credit Is Due.”\n\n\nCechova, Monika. 2020. “Ten Simple Rules for Biologists Initiating a Collaboration with Computer Scientists.” Edited by Scott Markel. PLOS Computational Biology 16 (10): e1008281. https://doi.org/10.1371/journal.pcbi.1008281.\n\n\nClance, Pauline Rose, and Suzanne Imes. 1978. “The Imposter Phenomenon in High Achieving Women: Dynamics and Therapeutic Intervention.” Psychotherapy: Theory, Research and Practice 15 (3): 1–8.\n\n\nKruger, J., and D. Dunning. 1999. “Unskilled and Unaware of It: How Difficulties in Recognizing One’s Own Incompetence Lead to Inflated Self-Assessments.” Journal of Personality and Social Psychology 77 (6): 1121–34. https://doi.org/10.1037//0022-3514.77.6.1121.\n\n\nLeBlanc, Linda A., and Melissa R. Nosik. 2019. “Planning and Leading Effective Meetings.” Behavior Analysis in Practice 12 (3): 696–708. https://doi.org/10.1007/s40617-019-00330-z.\n\n\nRobinson, Mark D., Peiying Cai, Martin Emons, Reto Gerber, Pierre-Luc Germain, Samuel Gunz, Siyuan Luo, et al. 2024. “Ten Simple Rules for Computational Biologists Collaborating with Wet Lab Researchers.” Edited by Scott Markel. PLOS Computational Biology 20 (6): e1012174. https://doi.org/10.1371/journal.pcbi.1012174.\n\n\nStawarczyk, Bogna, and Małgorzata Roos. 2023. “Establishing Effective Cross-Disciplinary Collaboration: Combining Simple Rules for Reproducible Computational Research, a Good Data Management Plan, and Good Research Practice.” Edited by Jason A. Papin. PLOS Computational Biology 19 (4): e1011052. https://doi.org/10.1371/journal.pcbi.1011052.\n\n\nWilkinson, Mark D., Michel Dumontier, I. Jsbrand Jan Aalbersberg, Gabrielle Appleton, Myles Axton, Arie Baak, Niklas Blomberg, et al. 2016. “The FAIR Guiding Principles for Scientific Data Management and Stewardship.” Scientific Data 3 (March): 160018. https://doi.org/10.1038/sdata.2016.18."
+  },
+  {
+    "objectID": "01_collaboration/index.html#contact",
+    "href": "01_collaboration/index.html#contact",
+    "title": "How to make successful collaborations between computational biologists and experimentalists?",
+    "section": "Contact",
+    "text": "Contact"
+  },
+  {
+    "objectID": "02_graphical_abstract.html",
+    "href": "02_graphical_abstract.html",
+    "title": "How to create successful graphical abstracts?",
+    "section": "",
+    "text": "Graphical abstracts have become a central element of modern scientific communication. When done well, they provide a clear, concise, and visually compelling summary of a study’s main message. When done poorly, they can confuse readers, obscure key results, or misrepresent the science.\nThis second session of the Ten Simple Rules Educational Series focuses on how to design effective graphical abstracts that communicate complex ideas with clarity and precision. The session distills practical experience from publications, peer review, and editorial practice into ten simple rules that guide the creation of graphical abstracts that are scientifically accurate, visually coherent, and audience-aware.\nKey topics include: - Defining a single, clear message before starting the design\n- Choosing the right level of abstraction and visual complexity\n- Structuring layouts to guide the reader’s attention\n- Using color, symbols, and typography consistently\n- Avoiding common pitfalls such as visual overload or ambiguous graphics\n- Adapting graphical abstracts to different journals and audiences\nThe session emphasizes that graphical abstracts are not illustrations for experts, but communication tools for a broad scientific audience. Participants will learn how to translate their research into visuals that support understanding, reproducibility, and impact—without oversimplifying the science.\nThis session is aimed at students and researchers across disciplines who want to improve how their work is perceived, understood, and remembered in an increasingly visual scientific landscape.\n\n\n\n Open slides",
+    "crumbs": [
+      "Home",
+      "Talks",
+      "2. Graphical abstract"
+    ]
+  },
+  {
+    "objectID": "02_graphical_abstract.html#slides",
+    "href": "02_graphical_abstract.html#slides",
+    "title": "How to create successful graphical abstracts?",
+    "section": "",
+    "text": "Open slides",
+    "crumbs": [
+      "Home",
+      "Talks",
+      "2. Graphical abstract"
+    ]
+  }
+]
