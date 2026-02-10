@@ -20,11 +20,7 @@ bibliography: references.bib
 css: styles.css
 ---
 
-
-
-<!-- Gra
-graphical abstracts by themselves are insufficient to comprehend the key message of a paper [3]
--->
+## {background-image="content/graphical_abstracts.jpg" background-size="contain"}
 
 ## 1: Key message for audience^[@Jambor2024]
 ### What do you want to show?
