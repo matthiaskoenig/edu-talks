@@ -22,7 +22,213 @@ css: styles.css
 
 
 
+<!-- Gra
+graphical abstracts by themselves are insufficient to comprehend the key message of a paper [3]
+-->
 
+## 1: Key message for audience^[@Jambor2024]
+### What do you want to show?
+
+:::: {.columns}
+::: {.column width="50%"}
+![](content/key_message.png)
+:::
+::: {.column width="50%"}
+- write down the key message in one sentence
+- doodle around on paper
+- shorten down the abstract to one sentence (conclusion)
+- ChatGPT 
+
+### Actionable items
+- Take an example of yours and define the key message
+:::
+::::
+
+
+## 2: Pictures and pictograms
+### Key components are visual elements.
+
+:::: {.columns}
+::: {.column width="50%"}
+![](content/pictograms.png)
+:::
+::: {.column width="50%"}
+- mostly pictograms and symbols
+- simple shapes
+- all icons should have similar overall appearance (consistency)
+
+### Actionable items
+- Explore icons: [Fontawesome](https://fontawesome.com), [Nounproject](https://thenounproject.com), [EBI](https://www.ebi.ac.uk/style-lab/general/fonts/v1.3/), [Bioicons](https://bioicons.com/), [Health Icons](https://healthicons.org/), [Biorender](https://www.biorender.com/)
+:::
+::::
+
+## 3: Data and charts as key visuals
+### When pictograms are not enough.
+
+:::: {.columns}
+::: {.column width="50%"}
+![](content/chart_types.png)
+
+### Actionable items
+- Create minimal chart from your key results
+- Explore chart types and their use: [Data Visualization Catalogue](https://datavizcatalogue.com/)
+
+:::
+::: {.column width="50%"}
+
+- Medical, microscopy, or photo **images are often self-explanatory**
+- Most of us understand **bar charts** (and pie and line charts) [12, 13, 14]
+- **Omit details** (tick marks, legends, labels, ...)
+- highlight specific methods with **domain-specific plots** (e.g. t-SNE, Forrest plots, Vulcano)
+:::
+::::
+
+## 4: Layout: The dimensions
+### Where to put what?
+
+:::: {.columns}
+::: {.column width="50%"}
+![](content/layout.png)
+
+### Actionable items
+- Explore typical formats: e.g. [Canva](https://www.canva.com/)
+- Have a look at requirements: e.g. [MDPI](https://www.mdpi.com/journal/designs/instructions)
+:::
+::: {.column width="50%"}
+- often square or rectangle (see instructions)
+- often shown very small (newsletter, social media, ...)
+- often space very limited (grant applications), go wide not high
+
+:::
+::::
+  
+## 5: Layout: Reading directions
+### Where is the entry point, how do you scan?
+
+:::: {.columns}
+::: {.column width="50%"}
+![](content/reading_direction.png)
+
+### Actionable items
+- Figure out the reading directions of the latest figures you created
+- Where is your entry point?
+
+:::
+::: {.column width="50%"}
+- provide clear entry point
+- typical direction: left to right, top to bottom
+- arrange elements in reading order [15]
+- linear processes or workflows work well in linear chain
+- parallel layout for contrasting elements
+:::
+::::
+
+## 6: Connecting the elements
+### Arrows and arrangements
+
+:::: {.columns}
+::: {.column width="50%"}
+![](content/arrows.png)
+
+### Actionable items
+- Explore the arrows and options in your tool of choice
+  - Width, arrow heads, curves, ... (e.g. [Biorender](https://www.biorender.com/))
+- Explore systems biology graphical annotation [SBGN](https://sbgn.github.io/)
+
+:::
+::: {.column width="50%"}
+- arrows connect text, pictograms, images and charts into a sequential narrative (storyline)
+- arrows have distinct functions and meaning (be consistent) [16]
+- respect domain-specific agreements (e.g. inhibition)
+:::
+::::
+
+## 7: Text
+### Less is more
+
+:::: {.columns}
+::: {.column width="50%"}
+![](content/text.png)
+
+:::
+::: {.column width="50%"}
+- graphical abstract should be self-explanatory (without text)
+- be consistent (sizes, font-weight, font)
+- don't overwhelm or confuse
+:::
+::::
+
+## 8: Colors
+### Colour is a power which directly influences the soul.
+
+:::: {.columns}
+::: {.column width="50%"}
+![](content/colors.png)
+
+### Actionable items
+- Explore tools to select colors or color combinations
+    - [Colorbrewer](https://colorbrewer2.org/)
+    - [Paletton](https://paletton.com/)
+- Reflect your color choices
+:::
+::: {.column width="50%"}
+
+- engage with audience; other functions: highlight, enumerate, group, levels, ...
+- consistency in color usage is important (in graphical abstract and manuscript)
+- many people are colorblind
+:::
+::::
+
+
+## 9: Tools for graphical abstracts
+### Select the right tool for the job.
+
+:::: {.columns}
+::: {.column width="50%"}
+![](content/biorender.png)
+
+### Actionable items
+- Get comfortable with a vector graphics program and start designing
+:::
+::: {.column width="50%"}
+
+- use vector graphics
+- Biorender, Canva, Figma, Adobe Illustrator, Incscape
+- Comprehensive reviews of features and pricing are available [31, 32]
+:::
+::::
+
+## 10: Before, during, after
+### Feedback
+
+:::: {.columns}
+::: {.column width="50%"}
+![](content/feedback.png)
+
+### Actionable items
+- Get feedback on your last figure and implement the suggestions
+:::
+::: {.column width="50%"}
+
+- designing is an iterative process
+- Seek input from friends and colleages.
+:::
+::::
+
+
+## Evolution of Graphical Abstracts
+
+![](content/evolution_abstract.png)
+
+## Evolution of Graphical Abstracts (PERFECT-KID)
+:::: {.columns}
+::: {.column width="50%"}
+![](content/PERFECT-KID_scetch.png)
+:::
+::: {.column width="50%"}
+![](content/PERFECT-KID_final.png)
+:::
+::::
 
 ## References
 ::: {#refs}

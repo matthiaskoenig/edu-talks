@@ -12,7 +12,7 @@ The website with the presentations is available from https://matthiaskoenig.gith
 ## Installation
 Install quarto from https://quarto.org/
 
-## Render website and presentations
+## Render website
 ### preview
 ```bash
 quarto preview
@@ -22,6 +22,10 @@ quarto preview
 ```bash
 quarto render
 ```
+
+## Work on presentation
+- go to subfolder
+- `quarto preview index.qmd`
 
 ## License
 - Source Code: [MIT](https://opensource.org/license/MIT)
