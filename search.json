@@ -141,6 +141,90 @@
     ]
   },
   {
+    "objectID": "02_graphical_abstract/index.html#key-message-for-audience",
+    "href": "02_graphical_abstract/index.html#key-message-for-audience",
+    "title": "How to create successful graphical abstracts?",
+    "section": "1: Key message for audience1",
+    "text": "1: Key message for audience1\nWhat do you want to show?\n\n\n\n\n\nwrite down the key message in one sentence\ndoodle around on paper\nshorten down the abstract to one sentence (conclusion)\nChatGPT\n\nActionable items\n\nTake an example of yours and define the key message\n\n\n(Jambor2024?)"
+  },
+  {
+    "objectID": "02_graphical_abstract/index.html#pictures-and-pictograms",
+    "href": "02_graphical_abstract/index.html#pictures-and-pictograms",
+    "title": "How to create successful graphical abstracts?",
+    "section": "2: Pictures and pictograms",
+    "text": "2: Pictures and pictograms\nKey components are visual elements.\n\n\n\n\n\nmostly pictograms and symbols\nsimple shapes\nall icons should have similar overall appearance (consistency)\n\nActionable items\n\nExplore icons: Fontawesome, Nounproject, EBI, Bioicons, Health Icons, Biorender"
+  },
+  {
+    "objectID": "02_graphical_abstract/index.html#data-and-charts-as-key-visuals",
+    "href": "02_graphical_abstract/index.html#data-and-charts-as-key-visuals",
+    "title": "How to create successful graphical abstracts?",
+    "section": "3: Data and charts as key visuals",
+    "text": "3: Data and charts as key visuals\nWhen pictograms are not enough.\n\n\n\nActionable items\n\nCreate minimal chart from your key results\nExplore chart types and their use: Data Visualization Catalogue\n\n\n\nMedical, microscopy, or photo images are often self-explanatory\nMost of us understand bar charts (and pie and line charts) [12, 13, 14]\nOmit details (tick marks, legends, labels, …)\nhighlight specific methods with domain-specific plots (e.g. t-SNE, Forrest plots, Vulcano)"
+  },
+  {
+    "objectID": "02_graphical_abstract/index.html#layout-the-dimensions",
+    "href": "02_graphical_abstract/index.html#layout-the-dimensions",
+    "title": "How to create successful graphical abstracts?",
+    "section": "4: Layout: The dimensions",
+    "text": "4: Layout: The dimensions\nWhere to put what?\n\n\n\nActionable items\n\nExplore typical formats: e.g. Canva\nHave a look at requirements: e.g. MDPI\n\n\n\noften square or rectangle (see instructions)\noften shown very small (newsletter, social media, …)\noften space very limited (grant applications), go wide not high"
+  },
+  {
+    "objectID": "02_graphical_abstract/index.html#layout-reading-directions",
+    "href": "02_graphical_abstract/index.html#layout-reading-directions",
+    "title": "How to create successful graphical abstracts?",
+    "section": "5: Layout: Reading directions",
+    "text": "5: Layout: Reading directions\nWhere is the entry point, how do you scan?\n\n\n\nActionable items\n\nFigure out the reading directions of the latest figures you created\nWhere is your entry point?\n\n\n\nprovide clear entry point\ntypical direction: left to right, top to bottom\narrange elements in reading order [15]\nlinear processes or workflows work well in linear chain\nparallel layout for contrasting elements"
+  },
+  {
+    "objectID": "02_graphical_abstract/index.html#connecting-the-elements",
+    "href": "02_graphical_abstract/index.html#connecting-the-elements",
+    "title": "How to create successful graphical abstracts?",
+    "section": "6: Connecting the elements",
+    "text": "6: Connecting the elements\nArrows and arrangements\n\n\n\nActionable items\n\nExplore the arrows and options in your tool of choice\n\nWidth, arrow heads, curves, … (e.g. Biorender)\n\nExplore systems biology graphical annotation SBGN\n\n\n\narrows connect text, pictograms, images and charts into a sequential narrative (storyline)\narrows have distinct functions and meaning (be consistent) [16]\nrespect domain-specific agreements (e.g. inhibition)"
+  },
+  {
+    "objectID": "02_graphical_abstract/index.html#text",
+    "href": "02_graphical_abstract/index.html#text",
+    "title": "How to create successful graphical abstracts?",
+    "section": "7: Text",
+    "text": "7: Text\nLess is more\n\n\n\n\n\ngraphical abstract should be self-explanatory (without text)\nbe consistent (sizes, font-weight, font)\ndon’t overwhelm or confuse"
+  },
+  {
+    "objectID": "02_graphical_abstract/index.html#colors",
+    "href": "02_graphical_abstract/index.html#colors",
+    "title": "How to create successful graphical abstracts?",
+    "section": "8: Colors",
+    "text": "8: Colors\nColour is a power which directly influences the soul.\n\n\n\nActionable items\n\nExplore tools to select colors or color combinations\n\nColorbrewer\nPaletton\n\nReflect your color choices\n\n\n\nengage with audience; other functions: highlight, enumerate, group, levels, …\nconsistency in color usage is important (in graphical abstract and manuscript)\nmany people are colorblind"
+  },
+  {
+    "objectID": "02_graphical_abstract/index.html#tools-for-graphical-abstracts",
+    "href": "02_graphical_abstract/index.html#tools-for-graphical-abstracts",
+    "title": "How to create successful graphical abstracts?",
+    "section": "9: Tools for graphical abstracts",
+    "text": "9: Tools for graphical abstracts\nSelect the right tool for the job.\n\n\n\nActionable items\n\nGet comfortable with a vector graphics program and start designing\n\n\n\nuse vector graphics\nBiorender, Canva, Figma, Adobe Illustrator, Incscape\nComprehensive reviews of features and pricing are available [31, 32]"
+  },
+  {
+    "objectID": "02_graphical_abstract/index.html#before-during-after",
+    "href": "02_graphical_abstract/index.html#before-during-after",
+    "title": "How to create successful graphical abstracts?",
+    "section": "10: Before, during, after",
+    "text": "10: Before, during, after\nFeedback\n\n\n\nActionable items\n\nGet feedback on your last figure and implement the suggestions\n\n\n\ndesigning is an iterative process\nSeek input from friends and colleages."
+  },
+  {
+    "objectID": "02_graphical_abstract/index.html#evolution-of-graphical-abstracts",
+    "href": "02_graphical_abstract/index.html#evolution-of-graphical-abstracts",
+    "title": "How to create successful graphical abstracts?",
+    "section": "Evolution of Graphical Abstracts",
+    "text": "Evolution of Graphical Abstracts"
+  },
+  {
+    "objectID": "02_graphical_abstract/index.html#evolution-of-graphical-abstracts-perfect-kid",
+    "href": "02_graphical_abstract/index.html#evolution-of-graphical-abstracts-perfect-kid",
+    "title": "How to create successful graphical abstracts?",
+    "section": "Evolution of Graphical Abstracts (PERFECT-KID)",
+    "text": "Evolution of Graphical Abstracts (PERFECT-KID)"
+  },
+  {
     "objectID": "02_graphical_abstract/index.html#references",
     "href": "02_graphical_abstract/index.html#references",
     "title": "How to create successful graphical abstracts?",
