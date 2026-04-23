@@ -1,5 +1,150 @@
 [
   {
+    "objectID": "02_graphical_abstract.html",
+    "href": "02_graphical_abstract.html",
+    "title": "How to create successful graphical abstracts?",
+    "section": "",
+    "text": "Graphical abstracts have become a central element of modern scientific communication. When done well, they provide a clear, concise, and visually compelling summary of a study’s main message. When done poorly, they can confuse readers, obscure key results, or misrepresent the science.\nThis second session of the Ten Simple Rules Educational Series focuses on how to design effective graphical abstracts that communicate complex ideas with clarity and precision. The session distills practical experience from publications, peer review, and editorial practice into ten simple rules that guide the creation of graphical abstracts that are scientifically accurate, visually coherent, and audience-aware.\nKey topics include: - Defining a single, clear message before starting the design\n- Choosing the right level of abstraction and visual complexity\n- Structuring layouts to guide the reader’s attention\n- Using color, symbols, and typography consistently\n- Avoiding common pitfalls such as visual overload or ambiguous graphics\n- Adapting graphical abstracts to different journals and audiences\nThe session emphasizes that graphical abstracts are not illustrations for experts, but communication tools for a broad scientific audience. Participants will learn how to translate their research into visuals that support understanding, reproducibility, and impact—without oversimplifying the science.\nThis session is aimed at students and researchers across disciplines who want to improve how their work is perceived, understood, and remembered in an increasingly visual scientific landscape.\n\n\n\n Open slides",
+    "crumbs": [
+      "Home",
+      "Talks",
+      "2. Graphical abstracts"
+    ]
+  },
+  {
+    "objectID": "02_graphical_abstract.html#slides",
+    "href": "02_graphical_abstract.html#slides",
+    "title": "How to create successful graphical abstracts?",
+    "section": "",
+    "text": "Open slides",
+    "crumbs": [
+      "Home",
+      "Talks",
+      "2. Graphical abstracts"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About\nDr. Matthias König is a researcher and educator at Humboldt-Universität zu Berlin and University Stuttgart, where he leads the Systems Medicine of the Liver group. His work focuses on computational modeling, pharmacokinetics, and digital health education. He is passionate about making complex biomedical processes understandable and accessible through open, interactive learning resources.\n\n\n\nDr. Matthias König\n\n\nDr. Matthias König\nHead of Systems Medicine of the Liver Lab\nHumboldt-Universität zu Berlin, Faculty of Life Science, Institute of Biology, ITB\nHead of Computational Biomechanics Group\nUniversity of Stuttgart, Institute of Structural Mechanics and Dynamics in Aerospace Engineering\nhttps://livermetabolism.com",
+    "crumbs": [
+      "Home",
+      "About"
+    ]
+  },
+  {
+    "objectID": "01_collaboration.html",
+    "href": "01_collaboration.html",
+    "title": "How to make successful collaborations between computational biologists and experimentalists?",
+    "section": "",
+    "text": "How to make successful collaborations between computational biologists and experimentalists?\nModern life-science research increasingly depends on close collaboration between computation and experiment. Yet many interdisciplinary projects struggle—not because of missing expertise, but because of mismatched expectations, unclear communication, and poorly aligned workflows.\nThis first session of the Ten Simple Rules Educational Series focuses on the practical foundations of successful collaborations between computational biologists and experimentalists. Drawing on real project experience, the session distills common challenges and proven solutions into ten simple, actionable rules that help interdisciplinary teams work effectively from day one.\nThe session addresses key questions such as: - How can collaborators align scientific questions, assumptions, and success criteria early on? - What should be clarified about data, models, timelines, and responsibilities before a project starts? - How can experimental and computational workflows be connected in a reproducible and transparent way? - How do communication, documentation, and shared language influence long-term success? - What typically goes wrong—and how can it be avoided?\nRather than focusing on tools alone, this session emphasizes people, processes, and shared understanding as the foundation of productive interdisciplinary research. It is aimed at students, PhD candidates, postdocs, and PIs who work—or plan to work—across the boundaries of computation and experiment.\nBy the end of the session, participants will have a clear framework for building collaborations that are trust-based, efficient, reproducible, and scientifically impactful.\n\n\nSlides\n\n Open slides",
+    "crumbs": [
+      "Home",
+      "Talks",
+      "1. Collaborations"
+    ]
+  },
+  {
+    "objectID": "02_graphical_abstract/index.html#key-message-for-audience",
+    "href": "02_graphical_abstract/index.html#key-message-for-audience",
+    "title": "How to create successful graphical abstracts?",
+    "section": "1: Key message for audience1",
+    "text": "1: Key message for audience1\nWhat do you want to show?\n\n\n\n\n\nWrite down the key message in one sentence\nDoodle around on paper\nShorten down the abstract to one sentence (conclusion)\nChatGPT\n\nActionable items\n\nTake an example of yours and define the key message\n\n\nJambor and Bornhäuser (2024)"
+  },
+  {
+    "objectID": "02_graphical_abstract/index.html#pictures-and-pictograms",
+    "href": "02_graphical_abstract/index.html#pictures-and-pictograms",
+    "title": "How to create successful graphical abstracts?",
+    "section": "2: Pictures and pictograms",
+    "text": "2: Pictures and pictograms\nKey components are visual elements.\n\n\n\n\n\nMostly pictograms and symbols\nSimple shapes\nAll icons should have similar overall appearance (consistency)\n\nActionable items\n\nExplore icons: Fontawesome, Nounproject, EBI, Bioicons, Health Icons, Biorender"
+  },
+  {
+    "objectID": "02_graphical_abstract/index.html#data-and-charts-as-key-visuals",
+    "href": "02_graphical_abstract/index.html#data-and-charts-as-key-visuals",
+    "title": "How to create successful graphical abstracts?",
+    "section": "3: Data and charts as key visuals",
+    "text": "3: Data and charts as key visuals\nWhen pictograms are not enough.\n\n\n\nActionable items\n\nCreate minimal chart from your key results\nExplore chart types and their use: Data Visualization Catalogue\n\n\n\nMedical, microscopy, or photo images are often self-explanatory\nMost of us understand bar charts (and pie and line charts)1\nOmit details (tick marks, legends, labels, …)\nhighlight specific methods with domain-specific plots (e.g. t-SNE, Forrest plots, Vulcano)\n\n\nAriga and Tashiro (2022), Weissgerber et al. (2015), Cairo (2016)"
+  },
+  {
+    "objectID": "02_graphical_abstract/index.html#layout-the-dimensions",
+    "href": "02_graphical_abstract/index.html#layout-the-dimensions",
+    "title": "How to create successful graphical abstracts?",
+    "section": "4: Layout: The dimensions",
+    "text": "4: Layout: The dimensions\nWhere to put what?\n\n\n\nActionable items\n\nExplore typical formats: e.g. Canva\nHave a look at requirements: e.g. MDPI\n\n\n\nOften square or rectangle (see instructions)\nOften shown very small (newsletter, social media, …)\nOften space very limited (grant applications), go wide not high"
+  },
+  {
+    "objectID": "02_graphical_abstract/index.html#layout-reading-directions",
+    "href": "02_graphical_abstract/index.html#layout-reading-directions",
+    "title": "How to create successful graphical abstracts?",
+    "section": "5: Layout: Reading directions",
+    "text": "5: Layout: Reading directions\nWhere is the entry point, how do you scan?\n\n\n\nActionable items\n\nFigure out the reading directions of the latest figures you created\nWhere is your entry point?\n\n\n\nProvide clear entry point\nTypical direction: left to right, top to bottom\nArrange elements in reading order1\nLinear processes or workflows work well in linear chain\nParallel layout for contrasting elements\n\n\nWong (2011)"
+  },
+  {
+    "objectID": "02_graphical_abstract/index.html#connecting-the-elements",
+    "href": "02_graphical_abstract/index.html#connecting-the-elements",
+    "title": "How to create successful graphical abstracts?",
+    "section": "6: Connecting the elements",
+    "text": "6: Connecting the elements\nArrows and arrangements\n\n\n\nActionable items\n\nExplore the arrows and options in your tool of choice\n\nWidth, arrow heads, curves, … (e.g. Biorender)\n\nExplore SBGN\n\n\n\nArrows connect text, pictograms, images and charts into a sequential narrative (storyline)\nArrows have distinct functions and meaning (be consistent)1\nRespect domain-specific agreements (e.g. inhibition)\n\n\nTversky et al. (2000)"
+  },
+  {
+    "objectID": "02_graphical_abstract/index.html#text",
+    "href": "02_graphical_abstract/index.html#text",
+    "title": "How to create successful graphical abstracts?",
+    "section": "7: Text",
+    "text": "7: Text\nLess is more\n\n\n\n\n\nGraphical abstract should be self-explanatory (without text)\nBe consistent (sizes, font-weight, font)\nDon’t overwhelm or confuse"
+  },
+  {
+    "objectID": "02_graphical_abstract/index.html#colors",
+    "href": "02_graphical_abstract/index.html#colors",
+    "title": "How to create successful graphical abstracts?",
+    "section": "8: Colors",
+    "text": "8: Colors\nColour is a power which directly influences the soul.\n\n\n\nActionable items\n\nExplore tools to select colors or color combinations\n\nColorbrewer\nPaletton\n\nReflect your color choices\n\n\n\nEngage with audience; other functions: highlight, enumerate, group, levels, …\nConsistency in color usage is important (in graphical abstract and manuscript)\nMany people are colorblind"
+  },
+  {
+    "objectID": "02_graphical_abstract/index.html#tools-for-graphical-abstracts",
+    "href": "02_graphical_abstract/index.html#tools-for-graphical-abstracts",
+    "title": "How to create successful graphical abstracts?",
+    "section": "9: Tools for graphical abstracts",
+    "text": "9: Tools for graphical abstracts\nSelect the right tool for the job.\n\n\n\nActionable items\n\nGet comfortable with a vector graphics program\n\n\n\nUse vector graphics\nBiorender, Canva, Figma, Adobe Illustrator, Inkscape\nComprehensive reviews of features and pricing are available1\n\n\nPerkel (2020), Cvrčková (2019)"
+  },
+  {
+    "objectID": "02_graphical_abstract/index.html#before-during-after",
+    "href": "02_graphical_abstract/index.html#before-during-after",
+    "title": "How to create successful graphical abstracts?",
+    "section": "10: Before, during, after",
+    "text": "10: Before, during, after\nFeedback\n\n\n\nActionable items\n\nGet feedback on your last figure and implement the suggestions\n\n\n\nDesigning is an iterative process\nSeek input from friends and colleagues."
+  },
+  {
+    "objectID": "02_graphical_abstract/index.html#evolution-of-graphical-abstracts",
+    "href": "02_graphical_abstract/index.html#evolution-of-graphical-abstracts",
+    "title": "How to create successful graphical abstracts?",
+    "section": "Evolution of Graphical Abstracts",
+    "text": "Evolution of Graphical Abstracts"
+  },
+  {
+    "objectID": "02_graphical_abstract/index.html#evolution-of-graphical-abstracts-perfect-kid",
+    "href": "02_graphical_abstract/index.html#evolution-of-graphical-abstracts-perfect-kid",
+    "title": "How to create successful graphical abstracts?",
+    "section": "Evolution of Graphical Abstracts (PERFECT-KID)",
+    "text": "Evolution of Graphical Abstracts (PERFECT-KID)"
+  },
+  {
+    "objectID": "02_graphical_abstract/index.html#references",
+    "href": "02_graphical_abstract/index.html#references",
+    "title": "How to create successful graphical abstracts?",
+    "section": "References",
+    "text": "References\n\n\nAriga, Kana, and Manabu Tashiro. 2022. “Change in the Graphics of Journal Articles in the Life Sciences Field: Analysis of Figures and Tables in the Journal \"Cell\".” History and Philosophy of the Life Sciences 44 (3): 33. https://doi.org/10.1007/s40656-022-00516-9.\n\n\nCairo, Alberto. 2016. The Truthful Art: Data, Charts, and Maps for Communication. New Riders.\n\n\nCvrčková, Fatima. 2019. “From Data to Illustrations: Common (Free) Tools for Proper Image Data Handling and Processing.” Methods in Molecular Biology (Clifton, N.J.) 1992: 121–33. https://doi.org/10.1007/978-1-4939-9469-4_8.\n\n\nJambor, Helena Klara, and Martin Bornhäuser. 2024. “Ten Simple Rules for Designing Graphical Abstracts.” PLOS Computational Biology 20 (2): e1011789. https://doi.org/10.1371/journal.pcbi.1011789.\n\n\nPerkel, Jeffrey M. 2020. “The Software That Powers Scientific Illustration.” Nature 582 (7810): 137–38. https://doi.org/10.1038/d41586-020-01404-7.\n\n\nTversky, Barbara, Jeffrey Zacks, Paul Lee, and Julie Heiser. 2000. “Lines, Blobs, Crosses and Arrows: Diagrammatic Communication with Schematic Figures.” In Diagrammatic Communication, edited by Michael Anderson, Peter Cheng, and Volker Haarslev. Springer.\n\n\nWeissgerber, Tracey L., Natasa M. Milic, Stacey J. Winham, and Vesna D. Garovic. 2015. “Beyond Bar and Line Graphs: Time for a New Data Presentation Paradigm.” PLoS Biology 13 (4): e1002128. https://doi.org/10.1371/journal.pbio.1002128.\n\n\nWong, Bang. 2011. “Layout.” Nature Methods 8 (10): 783. https://doi.org/10.1038/nmeth.1711."
+  },
+  {
+    "objectID": "02_graphical_abstract/index.html#contact",
+    "href": "02_graphical_abstract/index.html#contact",
+    "title": "How to create successful graphical abstracts?",
+    "section": "Contact",
+    "text": "Contact\n\n\n\n\nhttps://livermetabolism.com\n\n\nkoenigmx@hu-berlin.de"
+  },
+  {
     "objectID": "01_collaboration/index.html#collaboration",
     "href": "01_collaboration/index.html#collaboration",
     "title": "How to make successful collaborations between computational biologists and experimentalists?",
@@ -74,25 +219,14 @@
     "href": "01_collaboration/index.html#references",
     "title": "How to make successful collaborations between computational biologists and experimentalists?",
     "section": "References",
-    "text": "References\n\n\nAllen, Liz, Amy Brand, Jo Scott, Micah Altman, and Marjorie Hlava. 2014. “Credit Where Credit Is Due.”\n\n\nCechova, Monika. 2020. “Ten Simple Rules for Biologists Initiating a Collaboration with Computer Scientists.” Edited by Scott Markel. PLOS Computational Biology 16 (10): e1008281. https://doi.org/10.1371/journal.pcbi.1008281.\n\n\nClance, Pauline Rose, and Suzanne Imes. 1978. “The Imposter Phenomenon in High Achieving Women: Dynamics and Therapeutic Intervention.” Psychotherapy: Theory, Research and Practice 15 (3): 1–8.\n\n\nKruger, J., and D. Dunning. 1999. “Unskilled and Unaware of It: How Difficulties in Recognizing One’s Own Incompetence Lead to Inflated Self-Assessments.” Journal of Personality and Social Psychology 77 (6): 1121–34. https://doi.org/10.1037//0022-3514.77.6.1121.\n\n\nLeBlanc, Linda A., and Melissa R. Nosik. 2019. “Planning and Leading Effective Meetings.” Behavior Analysis in Practice 12 (3): 696–708. https://doi.org/10.1007/s40617-019-00330-z.\n\n\nRobinson, Mark D., Peiying Cai, Martin Emons, Reto Gerber, Pierre-Luc Germain, Samuel Gunz, Siyuan Luo, et al. 2024. “Ten Simple Rules for Computational Biologists Collaborating with Wet Lab Researchers.” Edited by Scott Markel. PLOS Computational Biology 20 (6): e1012174. https://doi.org/10.1371/journal.pcbi.1012174.\n\n\nStawarczyk, Bogna, and Małgorzata Roos. 2023. “Establishing Effective Cross-Disciplinary Collaboration: Combining Simple Rules for Reproducible Computational Research, a Good Data Management Plan, and Good Research Practice.” Edited by Jason A. Papin. PLOS Computational Biology 19 (4): e1011052. https://doi.org/10.1371/journal.pcbi.1011052.\n\n\nWilkinson, Mark D., Michel Dumontier, I. Jsbrand Jan Aalbersberg, Gabrielle Appleton, Myles Axton, Arie Baak, Niklas Blomberg, et al. 2016. “The FAIR Guiding Principles for Scientific Data Management and Stewardship.” Scientific Data 3 (March): 160018. https://doi.org/10.1038/sdata.2016.18."
+    "text": "References\n\n\nAllen, Liz, Amy Brand, Jo Scott, Micah Altman, and Marjorie Hlava. 2014. Credit Where Credit Is Due.\n\n\nCechova, Monika. 2020. “Ten Simple Rules for Biologists Initiating a Collaboration with Computer Scientists.” PLOS Computational Biology 16 (10): e1008281. https://doi.org/10.1371/journal.pcbi.1008281.\n\n\nClance, Pauline Rose, and Suzanne Imes. 1978. “The Imposter Phenomenon in High Achieving Women: Dynamics and Therapeutic Intervention.” Psychotherapy: Theory, Research and Practice 15 (3): 1–8.\n\n\nKruger, J., and D. Dunning. 1999. “Unskilled and Unaware of It: How Difficulties in Recognizing One’s Own Incompetence Lead to Inflated Self-Assessments.” Journal of Personality and Social Psychology 77 (6): 1121–34. https://doi.org/10.1037//0022-3514.77.6.1121.\n\n\nLeBlanc, Linda A., and Melissa R. Nosik. 2019. “Planning and Leading Effective Meetings.” Behavior Analysis in Practice 12 (3): 696–708. https://doi.org/10.1007/s40617-019-00330-z.\n\n\nRobinson, Mark D., Peiying Cai, Martin Emons, et al. 2024. “Ten Simple Rules for Computational Biologists Collaborating with Wet Lab Researchers.” PLOS Computational Biology 20 (6): e1012174. https://doi.org/10.1371/journal.pcbi.1012174.\n\n\nStawarczyk, Bogna, and Małgorzata Roos. 2023. “Establishing Effective Cross-Disciplinary Collaboration: Combining Simple Rules for Reproducible Computational Research, a Good Data Management Plan, and Good Research Practice.” PLOS Computational Biology 19 (4): e1011052. https://doi.org/10.1371/journal.pcbi.1011052.\n\n\nWilkinson, Mark D., Michel Dumontier, I. Jsbrand Jan Aalbersberg, et al. 2016. “The FAIR Guiding Principles for Scientific Data Management and Stewardship.” Scientific Data 3 (March): 160018. https://doi.org/10.1038/sdata.2016.18."
   },
   {
     "objectID": "01_collaboration/index.html#contact",
     "href": "01_collaboration/index.html#contact",
     "title": "How to make successful collaborations between computational biologists and experimentalists?",
     "section": "Contact",
-    "text": "Contact"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About\nDr. Matthias König is a researcher and educator at Humboldt-Universität zu Berlin and University Stuttgart, where he leads the Systems Medicine of the Liver group. His work focuses on computational modeling, pharmacokinetics, and digital health education. He is passionate about making complex biomedical processes understandable and accessible through open, interactive learning resources.\n\n\n\nDr. Matthias König\n\n\nDr. Matthias König\nHead of Systems Medicine of the Liver Lab\nHumboldt-Universität zu Berlin, Faculty of Life Science, Institute of Biology, ITB\nHead of Computational Biomechanics Group\nUniversity of Stuttgart, Institute of Structural Mechanics and Dynamics in Aerospace Engineering\nhttps://livermetabolism.com",
-    "crumbs": [
-      "Home",
-      "About"
-    ]
+    "text": "Contact\n\n\n\n\nhttps://livermetabolism.com\n\n\nkoenigmx@hu-berlin.de\n\n\n:::\n::: :::"
   },
   {
     "objectID": "index.html",
@@ -103,139 +237,5 @@
     "crumbs": [
       "Home"
     ]
-  },
-  {
-    "objectID": "02_graphical_abstract.html",
-    "href": "02_graphical_abstract.html",
-    "title": "How to create successful graphical abstracts?",
-    "section": "",
-    "text": "Graphical abstracts have become a central element of modern scientific communication. When done well, they provide a clear, concise, and visually compelling summary of a study’s main message. When done poorly, they can confuse readers, obscure key results, or misrepresent the science.\nThis second session of the Ten Simple Rules Educational Series focuses on how to design effective graphical abstracts that communicate complex ideas with clarity and precision. The session distills practical experience from publications, peer review, and editorial practice into ten simple rules that guide the creation of graphical abstracts that are scientifically accurate, visually coherent, and audience-aware.\nKey topics include: - Defining a single, clear message before starting the design\n- Choosing the right level of abstraction and visual complexity\n- Structuring layouts to guide the reader’s attention\n- Using color, symbols, and typography consistently\n- Avoiding common pitfalls such as visual overload or ambiguous graphics\n- Adapting graphical abstracts to different journals and audiences\nThe session emphasizes that graphical abstracts are not illustrations for experts, but communication tools for a broad scientific audience. Participants will learn how to translate their research into visuals that support understanding, reproducibility, and impact—without oversimplifying the science.\nThis session is aimed at students and researchers across disciplines who want to improve how their work is perceived, understood, and remembered in an increasingly visual scientific landscape.\n\n\n\n Open slides",
-    "crumbs": [
-      "Home",
-      "Talks",
-      "2. Graphical abstracts"
-    ]
-  },
-  {
-    "objectID": "02_graphical_abstract.html#slides",
-    "href": "02_graphical_abstract.html#slides",
-    "title": "How to create successful graphical abstracts?",
-    "section": "",
-    "text": "Open slides",
-    "crumbs": [
-      "Home",
-      "Talks",
-      "2. Graphical abstracts"
-    ]
-  },
-  {
-    "objectID": "01_collaboration.html",
-    "href": "01_collaboration.html",
-    "title": "How to make successful collaborations between computational biologists and experimentalists?",
-    "section": "",
-    "text": "How to make successful collaborations between computational biologists and experimentalists?\nModern life-science research increasingly depends on close collaboration between computation and experiment. Yet many interdisciplinary projects struggle—not because of missing expertise, but because of mismatched expectations, unclear communication, and poorly aligned workflows.\nThis first session of the Ten Simple Rules Educational Series focuses on the practical foundations of successful collaborations between computational biologists and experimentalists. Drawing on real project experience, the session distills common challenges and proven solutions into ten simple, actionable rules that help interdisciplinary teams work effectively from day one.\nThe session addresses key questions such as: - How can collaborators align scientific questions, assumptions, and success criteria early on? - What should be clarified about data, models, timelines, and responsibilities before a project starts? - How can experimental and computational workflows be connected in a reproducible and transparent way? - How do communication, documentation, and shared language influence long-term success? - What typically goes wrong—and how can it be avoided?\nRather than focusing on tools alone, this session emphasizes people, processes, and shared understanding as the foundation of productive interdisciplinary research. It is aimed at students, PhD candidates, postdocs, and PIs who work—or plan to work—across the boundaries of computation and experiment.\nBy the end of the session, participants will have a clear framework for building collaborations that are trust-based, efficient, reproducible, and scientifically impactful.\n\n\nSlides\n\n Open slides",
-    "crumbs": [
-      "Home",
-      "Talks",
-      "1. Collaborations"
-    ]
-  },
-  {
-    "objectID": "02_graphical_abstract/index.html#key-message-for-audience",
-    "href": "02_graphical_abstract/index.html#key-message-for-audience",
-    "title": "How to create successful graphical abstracts?",
-    "section": "1: Key message for audience1",
-    "text": "1: Key message for audience1\nWhat do you want to show?\n\n\n\n\n\nwrite down the key message in one sentence\ndoodle around on paper\nshorten down the abstract to one sentence (conclusion)\nChatGPT\n\nActionable items\n\nTake an example of yours and define the key message\n\n\n(Jambor2024?)"
-  },
-  {
-    "objectID": "02_graphical_abstract/index.html#pictures-and-pictograms",
-    "href": "02_graphical_abstract/index.html#pictures-and-pictograms",
-    "title": "How to create successful graphical abstracts?",
-    "section": "2: Pictures and pictograms",
-    "text": "2: Pictures and pictograms\nKey components are visual elements.\n\n\n\n\n\nmostly pictograms and symbols\nsimple shapes\nall icons should have similar overall appearance (consistency)\n\nActionable items\n\nExplore icons: Fontawesome, Nounproject, EBI, Bioicons, Health Icons, Biorender"
-  },
-  {
-    "objectID": "02_graphical_abstract/index.html#data-and-charts-as-key-visuals",
-    "href": "02_graphical_abstract/index.html#data-and-charts-as-key-visuals",
-    "title": "How to create successful graphical abstracts?",
-    "section": "3: Data and charts as key visuals",
-    "text": "3: Data and charts as key visuals\nWhen pictograms are not enough.\n\n\n\nActionable items\n\nCreate minimal chart from your key results\nExplore chart types and their use: Data Visualization Catalogue\n\n\n\nMedical, microscopy, or photo images are often self-explanatory\nMost of us understand bar charts (and pie and line charts) [12, 13, 14]\nOmit details (tick marks, legends, labels, …)\nhighlight specific methods with domain-specific plots (e.g. t-SNE, Forrest plots, Vulcano)"
-  },
-  {
-    "objectID": "02_graphical_abstract/index.html#layout-the-dimensions",
-    "href": "02_graphical_abstract/index.html#layout-the-dimensions",
-    "title": "How to create successful graphical abstracts?",
-    "section": "4: Layout: The dimensions",
-    "text": "4: Layout: The dimensions\nWhere to put what?\n\n\n\nActionable items\n\nExplore typical formats: e.g. Canva\nHave a look at requirements: e.g. MDPI\n\n\n\noften square or rectangle (see instructions)\noften shown very small (newsletter, social media, …)\noften space very limited (grant applications), go wide not high"
-  },
-  {
-    "objectID": "02_graphical_abstract/index.html#layout-reading-directions",
-    "href": "02_graphical_abstract/index.html#layout-reading-directions",
-    "title": "How to create successful graphical abstracts?",
-    "section": "5: Layout: Reading directions",
-    "text": "5: Layout: Reading directions\nWhere is the entry point, how do you scan?\n\n\n\nActionable items\n\nFigure out the reading directions of the latest figures you created\nWhere is your entry point?\n\n\n\nprovide clear entry point\ntypical direction: left to right, top to bottom\narrange elements in reading order [15]\nlinear processes or workflows work well in linear chain\nparallel layout for contrasting elements"
-  },
-  {
-    "objectID": "02_graphical_abstract/index.html#connecting-the-elements",
-    "href": "02_graphical_abstract/index.html#connecting-the-elements",
-    "title": "How to create successful graphical abstracts?",
-    "section": "6: Connecting the elements",
-    "text": "6: Connecting the elements\nArrows and arrangements\n\n\n\nActionable items\n\nExplore the arrows and options in your tool of choice\n\nWidth, arrow heads, curves, … (e.g. Biorender)\n\nExplore systems biology graphical annotation SBGN\n\n\n\narrows connect text, pictograms, images and charts into a sequential narrative (storyline)\narrows have distinct functions and meaning (be consistent) [16]\nrespect domain-specific agreements (e.g. inhibition)"
-  },
-  {
-    "objectID": "02_graphical_abstract/index.html#text",
-    "href": "02_graphical_abstract/index.html#text",
-    "title": "How to create successful graphical abstracts?",
-    "section": "7: Text",
-    "text": "7: Text\nLess is more\n\n\n\n\n\ngraphical abstract should be self-explanatory (without text)\nbe consistent (sizes, font-weight, font)\ndon’t overwhelm or confuse"
-  },
-  {
-    "objectID": "02_graphical_abstract/index.html#colors",
-    "href": "02_graphical_abstract/index.html#colors",
-    "title": "How to create successful graphical abstracts?",
-    "section": "8: Colors",
-    "text": "8: Colors\nColour is a power which directly influences the soul.\n\n\n\nActionable items\n\nExplore tools to select colors or color combinations\n\nColorbrewer\nPaletton\n\nReflect your color choices\n\n\n\nengage with audience; other functions: highlight, enumerate, group, levels, …\nconsistency in color usage is important (in graphical abstract and manuscript)\nmany people are colorblind"
-  },
-  {
-    "objectID": "02_graphical_abstract/index.html#tools-for-graphical-abstracts",
-    "href": "02_graphical_abstract/index.html#tools-for-graphical-abstracts",
-    "title": "How to create successful graphical abstracts?",
-    "section": "9: Tools for graphical abstracts",
-    "text": "9: Tools for graphical abstracts\nSelect the right tool for the job.\n\n\n\nActionable items\n\nGet comfortable with a vector graphics program and start designing\n\n\n\nuse vector graphics\nBiorender, Canva, Figma, Adobe Illustrator, Incscape\nComprehensive reviews of features and pricing are available [31, 32]"
-  },
-  {
-    "objectID": "02_graphical_abstract/index.html#before-during-after",
-    "href": "02_graphical_abstract/index.html#before-during-after",
-    "title": "How to create successful graphical abstracts?",
-    "section": "10: Before, during, after",
-    "text": "10: Before, during, after\nFeedback\n\n\n\nActionable items\n\nGet feedback on your last figure and implement the suggestions\n\n\n\ndesigning is an iterative process\nSeek input from friends and colleages."
-  },
-  {
-    "objectID": "02_graphical_abstract/index.html#evolution-of-graphical-abstracts",
-    "href": "02_graphical_abstract/index.html#evolution-of-graphical-abstracts",
-    "title": "How to create successful graphical abstracts?",
-    "section": "Evolution of Graphical Abstracts",
-    "text": "Evolution of Graphical Abstracts"
-  },
-  {
-    "objectID": "02_graphical_abstract/index.html#evolution-of-graphical-abstracts-perfect-kid",
-    "href": "02_graphical_abstract/index.html#evolution-of-graphical-abstracts-perfect-kid",
-    "title": "How to create successful graphical abstracts?",
-    "section": "Evolution of Graphical Abstracts (PERFECT-KID)",
-    "text": "Evolution of Graphical Abstracts (PERFECT-KID)"
-  },
-  {
-    "objectID": "02_graphical_abstract/index.html#references",
-    "href": "02_graphical_abstract/index.html#references",
-    "title": "How to create successful graphical abstracts?",
-    "section": "References",
-    "text": "References"
-  },
-  {
-    "objectID": "02_graphical_abstract/index.html#contact",
-    "href": "02_graphical_abstract/index.html#contact",
-    "title": "How to create successful graphical abstracts?",
-    "section": "Contact",
-    "text": "Contact"
   }
 ]
