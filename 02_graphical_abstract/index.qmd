@@ -30,9 +30,9 @@ css: styles.css
 ![](content/key_message.png)
 :::
 ::: {.column width="50%"}
-- write down the key message in one sentence
-- doodle around on paper
-- shorten down the abstract to one sentence (conclusion)
+- Write down the key message in one sentence
+- Doodle around on paper
+- Shorten down the abstract to one sentence (conclusion)
 - ChatGPT 
 
 ### Actionable items
@@ -49,9 +49,9 @@ css: styles.css
 ![](content/pictograms.png)
 :::
 ::: {.column width="50%"}
-- mostly pictograms and symbols
-- simple shapes
-- all icons should have similar overall appearance (consistency)
+- Mostly pictograms and symbols
+- Simple shapes
+- All icons should have similar overall appearance (consistency)
 
 ### Actionable items
 - Explore icons: [Fontawesome](https://fontawesome.com), [Nounproject](https://thenounproject.com), [EBI](https://www.ebi.ac.uk/style-lab/general/fonts/v1.3/), [Bioicons](https://bioicons.com/), [Health Icons](https://healthicons.org/), [Biorender](https://www.biorender.com/)
@@ -73,7 +73,7 @@ css: styles.css
 ::: {.column width="50%"}
 
 - Medical, microscopy, or photo **images are often self-explanatory**
-- Most of us understand **bar charts** (and pie and line charts) [12, 13, 14]
+- Most of us understand **bar charts** (and pie and line charts)^[@Ariga2022, @Weissgerber2015, @Cairo2016]
 - **Omit details** (tick marks, legends, labels, ...)
 - highlight specific methods with **domain-specific plots** (e.g. t-SNE, Forrest plots, Vulcano)
 :::
@@ -91,9 +91,9 @@ css: styles.css
 - Have a look at requirements: e.g. [MDPI](https://www.mdpi.com/journal/designs/instructions)
 :::
 ::: {.column width="50%"}
-- often square or rectangle (see instructions)
-- often shown very small (newsletter, social media, ...)
-- often space very limited (grant applications), go wide not high
+- Often square or rectangle (see instructions)
+- Often shown very small (newsletter, social media, ...)
+- Often space very limited (grant applications), go wide not high
 
 :::
 ::::
@@ -111,11 +111,11 @@ css: styles.css
 
 :::
 ::: {.column width="50%"}
-- provide clear entry point
-- typical direction: left to right, top to bottom
-- arrange elements in reading order [15]
-- linear processes or workflows work well in linear chain
-- parallel layout for contrasting elements
+- Provide clear entry point
+- Typical direction: left to right, top to bottom
+- Arrange elements in reading order^[@Wong2011]
+- Linear processes or workflows work well in linear chain
+- Parallel layout for contrasting elements
 :::
 ::::
 
@@ -129,13 +129,13 @@ css: styles.css
 ### Actionable items
 - Explore the arrows and options in your tool of choice
   - Width, arrow heads, curves, ... (e.g. [Biorender](https://www.biorender.com/))
-- Explore systems biology graphical annotation [SBGN](https://sbgn.github.io/)
+- Explore [SBGN](https://sbgn.github.io/)
 
 :::
 ::: {.column width="50%"}
-- arrows connect text, pictograms, images and charts into a sequential narrative (storyline)
-- arrows have distinct functions and meaning (be consistent) [16]
-- respect domain-specific agreements (e.g. inhibition)
+- Arrows connect text, pictograms, images and charts into a sequential narrative (storyline)
+- Arrows have distinct functions and meaning (be consistent)^[@Tversky2000]
+- Respect domain-specific agreements (e.g. inhibition)
 :::
 ::::
 
@@ -148,9 +148,9 @@ css: styles.css
 
 :::
 ::: {.column width="50%"}
-- graphical abstract should be self-explanatory (without text)
-- be consistent (sizes, font-weight, font)
-- don't overwhelm or confuse
+- Graphical abstract should be self-explanatory (without text)
+- Be consistent (sizes, font-weight, font)
+- Don't overwhelm or confuse
 :::
 ::::
 
@@ -169,9 +169,9 @@ css: styles.css
 :::
 ::: {.column width="50%"}
 
-- engage with audience; other functions: highlight, enumerate, group, levels, ...
-- consistency in color usage is important (in graphical abstract and manuscript)
-- many people are colorblind
+- Engage with audience; other functions: highlight, enumerate, group, levels, ...
+- Consistency in color usage is important (in graphical abstract and manuscript)
+- Many people are colorblind
 :::
 ::::
 
@@ -184,13 +184,13 @@ css: styles.css
 ![](content/biorender.png)
 
 ### Actionable items
-- Get comfortable with a vector graphics program and start designing
+- Get comfortable with a vector graphics program
 :::
 ::: {.column width="50%"}
 
-- use vector graphics
-- Biorender, Canva, Figma, Adobe Illustrator, Incscape
-- Comprehensive reviews of features and pricing are available [31, 32]
+- Use vector graphics
+- Biorender, Canva, Figma, Adobe Illustrator, Inkscape
+- Comprehensive reviews of features and pricing are available^[@Perkel2020, @Cvrckova2019]
 :::
 ::::
 
@@ -206,8 +206,8 @@ css: styles.css
 :::
 ::: {.column width="50%"}
 
-- designing is an iterative process
-- Seek input from friends and colleages.
+- Designing is an iterative process
+- Seek input from friends and colleagues.
 :::
 ::::
 
@@ -219,7 +219,7 @@ css: styles.css
 ## Evolution of Graphical Abstracts (PERFECT-KID)
 :::: {.columns}
 ::: {.column width="50%"}
-![](content/PERFECT-KID_scetch.png)
+![](content/PERFECT-KID_sketch.png)
 :::
 ::: {.column width="50%"}
 ![](content/PERFECT-KID_final.png)
@@ -236,9 +236,13 @@ css: styles.css
 
 ::: {.column width="50%"}
 [![](content/qr_livermetabolism.png){.fixed-img}](https://livermetabolism.com){.fixed-img}
+
+[https://livermetabolism.com](https://livermetabolism.com)
 :::
 ::: {.column width="50%"}
 ![](content/headshot.png){.fixed-img}
+
+[koenigmx@hu-berlin.de](mailto:koenigmx@hu-berlin.de)
 :::
 
 :::

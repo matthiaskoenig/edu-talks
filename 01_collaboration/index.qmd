@@ -263,9 +263,19 @@ Let's start with a quick poll on what you think is important!
 
 ::: {.column width="50%"}
 [![](content/qr_livermetabolism.png){.fixed-img}](https://livermetabolism.com){.fixed-img}
+
+[https://livermetabolism.com](https://livermetabolism.com)
 :::
 ::: {.column width="50%"}
 ![](content/headshot.png){.fixed-img}
+
+[koenigmx@hu-berlin.de](mailto:koenigmx@hu-berlin.de)
+:::
+
+:::
+:::
+
+
 :::
 
 :::
