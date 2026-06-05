@@ -38,6 +38,8 @@ website:
             text: 1. Collaborations
           - href: 02_graphical_abstract.qmd
             text: 2. Graphical abstracts
+          - href: 03_git.qmd
+            text: 3. Git and GitHub
 
        - href: about.qmd
          text: About

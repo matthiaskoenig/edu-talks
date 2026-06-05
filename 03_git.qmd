@@ -1,0 +1,33 @@
+# 10 Simple Rules to Get Started with Git & GitHub
+
+Git and GitHub have become essential tools for modern collaborative work, reproducible research, and open science. They help researchers and students keep track of changes, collaborate without overwriting each other's work, share projects transparently, and build a visible portfolio of their work.
+
+This session of the **Ten Simple Rules Educational Series** introduces the basic ideas behind **version control with Git and GitHub** in a friendly and practical way. The session is designed for beginners who may have seen others use Git, feel overwhelmed by the terminology, or want to take their first steps toward more reproducible and collaborative workflows.
+
+The session focuses on why version control matters, what Git and GitHub are used for, and how they support everyday research and project work. Instead of trying to cover every command, it introduces the core concepts and workflows needed to get started: repositories, commits, branches, pull requests, Markdown, GitHub Desktop, and the creation of a first repository.
+
+Key topics include:
+- Understanding why Git and GitHub are useful for collaboration, reproducibility, and visibility
+- Learning what version control means and why manual file versions such as `final_v2_revised.docx` are problematic
+- Introducing basic Git terminology, including repositories, commits, branches, pull requests, and merges
+- Following a simple Git workflow: clone, edit, commit, push, and pull
+- Applying best practices for collaborative file work, clear commit messages, folder structures, and contribution rules
+- Exploring beginner-friendly tools such as the GitHub website, GitHub Desktop, IDE integration, and the command line
+- Using Markdown as a simple plain-text format for documentation and collaborative writing
+- Creating a first GitHub repository and using GitHub Pages as a personal or project landing page
+- Taking the next steps: finding local Git users, showing a first repository, and contributing to existing projects
+
+The session emphasizes that Git is not only a tool for software developers. It is also a practical method for students and researchers who want to organize their work, document their progress, collaborate with others, and make their projects easier to understand and reuse.
+
+Participants will leave the session with a high-level understanding of Git and GitHub, a vocabulary for talking about version control, and concrete first steps toward becoming confident Git users.
+
+## Slides
+```{=html}
+<a href="./03_git/index.html" target="_blank">
+<img src="./content/slides.png" alt="Open slides" width=50/> Open slides
+</a>
+```
+---
+```{=html}
+<iframe width="780" height="500" src="./03_git/index.html" title="10 Simple Rules to Get Started with Git & GitHub"></iframe>
+```
