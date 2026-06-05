@@ -4,6 +4,8 @@ Git and GitHub have become essential tools for modern collaborative work, reprod
 
 This session of the **Ten Simple Rules Educational Series** introduces the basic ideas behind **version control with Git and GitHub** in a friendly and practical way. The session is designed for beginners who may have seen others use Git, feel overwhelmed by the terminology, or want to take their first steps toward more reproducible and collaborative workflows.
 
+![](./03_git/content/02.png){width=500}
+
 The session focuses on why version control matters, what Git and GitHub are used for, and how they support everyday research and project work. Instead of trying to cover every command, it introduces the core concepts and workflows needed to get started: repositories, commits, branches, pull requests, Markdown, GitHub Desktop, and the creation of a first repository.
 
 Key topics include:
