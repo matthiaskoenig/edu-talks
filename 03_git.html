@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>about – Education Talks</title>
+<title>git – Education Talks</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -33,7 +33,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./03_git.html" rel="prev">
+<link href="./about.html" rel="next">
+<link href="./02_graphical_abstract.html" rel="prev">
 <link href="./content/education.png" rel="icon" type="image/png">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
@@ -80,10 +81,11 @@ ul.task-list li input[type="checkbox"] {
 
 <meta property="og:title" content="Education Talks">
 <meta property="og:description" content="">
-<meta property="og:image" content="https://github.io/matthiaskoenig/edu-talks/content/koenig.png">
+<meta property="og:image" content="https://github.io/matthiaskoenig/edu-talks/content/slides.png">
 <meta property="og:site_name" content="Education Talks">
-<meta property="og:image:height" content="1500">
-<meta property="og:image:width" content="1000">
+<meta property="og:image:alt" content="Open slides">
+<meta property="og:image:height" content="512">
+<meta property="og:image:width" content="512">
 </head>
 
 <body class="nav-sidebar docked nav-fixed quarto-light"><script id="quarto-html-before-body" type="application/javascript">
@@ -285,7 +287,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./about.html">About</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./01_collaboration.html">Talks</a></li><li class="breadcrumb-item"><a href="./03_git.html">3. Git and GitHub</a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -334,7 +336,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./03_git.html" class="sidebar-item-text sidebar-link">
+  <a href="./03_git.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">3. Git and GitHub</span></a>
   </div>
 </li>
@@ -342,7 +344,7 @@ ul.task-list li input[type="checkbox"] {
   </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./about.html" class="sidebar-item-text sidebar-link active">
+  <a href="./about.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">About</span></a>
   </div>
 </li>
@@ -356,34 +358,38 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#about" id="toc-about" class="nav-link active" data-scroll-target="#about">About</a></li>
+  <li><a href="#simple-rules-to-get-started-with-git-github" id="toc-simple-rules-to-get-started-with-git-github" class="nav-link active" data-scroll-target="#simple-rules-to-get-started-with-git-github">10 Simple Rules to Get Started with Git &amp; GitHub</a>
+  <ul class="collapse">
+  <li><a href="#slides" id="toc-slides" class="nav-link" data-scroll-target="#slides">Slides</a></li>
+  </ul></li>
   </ul>
-<div class="toc-actions"><ul><li><a href="https://github.com/matthiaskoenig/edu-talks/edit/main//about.qmd" target="_blank" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/matthiaskoenig/edu-talks/blob/main//about.qmd" target="_blank" class="toc-action"><i class="bi empty"></i>View source</a></li><li><a href="https://github.com/matthiaskoenig/edu-talks/issues" target="_blank" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
+<div class="toc-actions"><ul><li><a href="https://github.com/matthiaskoenig/edu-talks/edit/main//03_git.qmd" target="_blank" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/matthiaskoenig/edu-talks/blob/main//03_git.qmd" target="_blank" class="toc-action"><i class="bi empty"></i>View source</a></li><li><a href="https://github.com/matthiaskoenig/edu-talks/issues" target="_blank" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
+<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./01_collaboration.html">Talks</a></li><li class="breadcrumb-item"><a href="./03_git.html">3. Git and GitHub</a></li></ol></nav></header>
 
 
 
 
 
-<section id="about" class="level1">
-<h1>About</h1>
-<p>Dr.&nbsp;Matthias König is a researcher and educator at Humboldt-Universität zu Berlin and University Stuttgart, where he leads the <em>Systems Medicine of the Liver</em> group. His work focuses on computational modeling, pharmacokinetics, and digital health education. He is passionate about making complex biomedical processes understandable and accessible through open, interactive learning resources.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="./content/koenig.png" class="img-fluid figure-img" width="300"></p>
-<figcaption>Dr.&nbsp;Matthias König</figcaption>
-</figure>
-</div>
-<p><strong>Dr.&nbsp;Matthias König</strong></p>
-<p><em>Head of Systems Medicine of the Liver Lab</em><br>
-Humboldt-Universität zu Berlin, Faculty of Life Science, Institute of Biology, ITB</p>
-<p><em>Head of Computational Biomechanics Group</em><br>
-University of Stuttgart, Institute of Structural Mechanics and Dynamics in Aerospace Engineering</p>
-<p><a href="https://livermetabolism.com">https://livermetabolism.com</a></p>
+<section id="simple-rules-to-get-started-with-git-github" class="level1">
+<h1>10 Simple Rules to Get Started with Git &amp; GitHub</h1>
+<p>Git and GitHub have become essential tools for modern collaborative work, reproducible research, and open science. They help researchers and students keep track of changes, collaborate without overwriting each other’s work, share projects transparently, and build a visible portfolio of their work.</p>
+<p>This session of the <strong>Ten Simple Rules Educational Series</strong> introduces the basic ideas behind <strong>version control with Git and GitHub</strong> in a friendly and practical way. The session is designed for beginners who may have seen others use Git, feel overwhelmed by the terminology, or want to take their first steps toward more reproducible and collaborative workflows.</p>
+<p>The session focuses on why version control matters, what Git and GitHub are used for, and how they support everyday research and project work. Instead of trying to cover every command, it introduces the core concepts and workflows needed to get started: repositories, commits, branches, pull requests, Markdown, GitHub Desktop, and the creation of a first repository.</p>
+<p>Key topics include: - Understanding why Git and GitHub are useful for collaboration, reproducibility, and visibility - Learning what version control means and why manual file versions such as <code>final_v2_revised.docx</code> are problematic - Introducing basic Git terminology, including repositories, commits, branches, pull requests, and merges - Following a simple Git workflow: clone, edit, commit, push, and pull - Applying best practices for collaborative file work, clear commit messages, folder structures, and contribution rules - Exploring beginner-friendly tools such as the GitHub website, GitHub Desktop, IDE integration, and the command line - Using Markdown as a simple plain-text format for documentation and collaborative writing - Creating a first GitHub repository and using GitHub Pages as a personal or project landing page - Taking the next steps: finding local Git users, showing a first repository, and contributing to existing projects</p>
+<p>The session emphasizes that Git is not only a tool for software developers. It is also a practical method for students and researchers who want to organize their work, document their progress, collaborate with others, and make their projects easier to understand and reuse.</p>
+<p>Participants will leave the session with a high-level understanding of Git and GitHub, a vocabulary for talking about version control, and concrete first steps toward becoming confident Git users.</p>
+<section id="slides" class="level2">
+<h2 class="anchored" data-anchor-id="slides">Slides</h2>
+<a href="./03_git/index.html" target="_blank">
+<img src="./content/slides.png" alt="Open slides" width="50/"> Open slides
+</a>
+<hr>
+<iframe width="780" height="500" src="./03_git/index.html" title="10 Simple Rules to Get Started with Git &amp; GitHub"></iframe>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->
@@ -802,11 +808,14 @@ University of Stuttgart, Institute of Structural Mechanics and Dynamics in Aeros
   </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="./03_git.html" class="pagination-link" aria-label="3. Git and GitHub">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">3. Git and GitHub</span>
+      <a href="./02_graphical_abstract.html" class="pagination-link" aria-label="2. Graphical abstracts">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">2. Graphical abstracts</span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
+      <a href="./about.html" class="pagination-link" aria-label="About">
+        <span class="nav-page-text">About</span> <i class="bi bi-arrow-right-short"></i>
+      </a>
   </div>
 </nav>
 </div> <!-- /content -->
@@ -817,7 +826,7 @@ University of Stuttgart, Institute of Structural Mechanics and Dynamics in Aeros
 </div>   
     <div class="nav-footer-center">
       &nbsp;
-    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/matthiaskoenig/edu-talks/edit/main//about.qmd" target="_blank" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/matthiaskoenig/edu-talks/blob/main//about.qmd" target="_blank" class="toc-action"><i class="bi empty"></i>View source</a></li><li><a href="https://github.com/matthiaskoenig/edu-talks/issues" target="_blank" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
+    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/matthiaskoenig/edu-talks/edit/main//03_git.qmd" target="_blank" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/matthiaskoenig/edu-talks/blob/main//03_git.qmd" target="_blank" class="toc-action"><i class="bi empty"></i>View source</a></li><li><a href="https://github.com/matthiaskoenig/edu-talks/issues" target="_blank" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
     <div class="nav-footer-right">
       <ul class="footer-items list-unstyled">
     <li class="nav-item compact">
