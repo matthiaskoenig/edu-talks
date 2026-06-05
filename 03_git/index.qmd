@@ -24,8 +24,7 @@ bibliography: references.bib
 css: styles.css
 ---
 
-## 0: Teaser
-### Git can feel overwhelming at first.
+## Overwhelmed with git?
 
 :::: {.columns}
 ::: {.column width="50%"}
